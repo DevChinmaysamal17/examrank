@@ -100,7 +100,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:3000",   # Vite dev server
         "http://127.0.0.1:3000",  # Alternate loopback form
-        "https://examrank.vercel.app",
+        "https://examrank-phi.vercel.app",
     ],
     allow_credentials=False,
     allow_methods=["GET", "POST"],
