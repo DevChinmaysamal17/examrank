@@ -1,0 +1,1226 @@
+[
+{
+"marks": 0,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 2350000,
+"rank_avg": 2380000,
+"rank_max": 2400000
+},
+{
+"marks": 20,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 2300000,
+"rank_avg": 2340000,
+"rank_max": 2370000
+},
+{
+"marks": 40,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 2220000,
+"rank_avg": 2270000,
+"rank_max": 2310000
+},
+{
+"marks": 60,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 2100000,
+"rank_avg": 2160000,
+"rank_max": 2210000
+},
+{
+"marks": 80,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 1940000,
+"rank_avg": 2010000,
+"rank_max": 2070000
+},
+{
+"marks": 100,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 1730000,
+"rank_avg": 1810000,
+"rank_max": 1880000
+},
+{
+"marks": 120,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 1490000,
+"rank_avg": 1570000,
+"rank_max": 1650000
+},
+{
+"marks": 140,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 1240000,
+"rank_avg": 1320000,
+"rank_max": 1400000
+},
+{
+"marks": 160,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 1020000,
+"rank_avg": 1090000,
+"rank_max": 1160000
+},
+{
+"marks": 180,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 830000,
+"rank_avg": 895000,
+"rank_max": 960000
+},
+{
+"marks": 200,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 680000,
+"rank_avg": 738000,
+"rank_max": 795000
+},
+{
+"marks": 220,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 560000,
+"rank_avg": 612000,
+"rank_max": 665000
+},
+{
+"marks": 240,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 465000,
+"rank_avg": 512000,
+"rank_max": 560000
+},
+{
+"marks": 260,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 385000,
+"rank_avg": 428000,
+"rank_max": 472000
+},
+{
+"marks": 280,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 320000,
+"rank_avg": 358000,
+"rank_max": 398000
+},
+{
+"marks": 300,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 268000,
+"rank_avg": 301000,
+"rank_max": 336000
+},
+{
+"marks": 310,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 245000,
+"rank_avg": 276000,
+"rank_max": 309000
+},
+{
+"marks": 320,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 224000,
+"rank_avg": 253000,
+"rank_max": 284000
+},
+{
+"marks": 330,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 204000,
+"rank_avg": 232000,
+"rank_max": 261000
+},
+{
+"marks": 340,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 186000,
+"rank_avg": 212500,
+"rank_max": 240000
+},
+{
+"marks": 350,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 170000,
+"rank_avg": 194700,
+"rank_max": 221000
+},
+{
+"marks": 360,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 155000,
+"rank_avg": 178500,
+"rank_max": 203000
+},
+{
+"marks": 370,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 141000,
+"rank_avg": 163600,
+"rank_max": 187000
+},
+{
+"marks": 380,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 128500,
+"rank_avg": 150000,
+"rank_max": 172000
+},
+{
+"marks": 390,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 117000,
+"rank_avg": 137500,
+"rank_max": 158500
+},
+{
+"marks": 400,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 106500,
+"rank_avg": 126000,
+"rank_max": 146000
+},
+{
+"marks": 410,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 97000,
+"rank_avg": 115500,
+"rank_max": 134500
+},
+{
+"marks": 420,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 88000,
+"rank_avg": 105800,
+"rank_max": 124000
+},
+{
+"marks": 430,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 80000,
+"rank_avg": 96900,
+"rank_max": 114000
+},
+{
+"marks": 440,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 72800,
+"rank_avg": 88800,
+"rank_max": 105000
+},
+{
+"marks": 450,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 66000,
+"rank_avg": 81300,
+"rank_max": 96800
+},
+{
+"marks": 455,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 63000,
+"rank_avg": 77800,
+"rank_max": 92800
+},
+{
+"marks": 460,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 60000,
+"rank_avg": 74500,
+"rank_max": 89000
+},
+{
+"marks": 465,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 57200,
+"rank_avg": 71300,
+"rank_max": 85400
+},
+{
+"marks": 470,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 54500,
+"rank_avg": 68200,
+"rank_max": 81900
+},
+{
+"marks": 475,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 51900,
+"rank_avg": 65200,
+"rank_max": 78500
+},
+{
+"marks": 480,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 49400,
+"rank_avg": 62400,
+"rank_max": 75300
+},
+{
+"marks": 485,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 47000,
+"rank_avg": 59600,
+"rank_max": 72200
+},
+{
+"marks": 490,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 44700,
+"rank_avg": 57000,
+"rank_max": 69200
+},
+{
+"marks": 495,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 42500,
+"rank_avg": 54400,
+"rank_max": 66300
+},
+{
+"marks": 500,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 40400,
+"rank_avg": 52000,
+"rank_max": 63500
+},
+{
+"marks": 505,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 38400,
+"rank_avg": 49650,
+"rank_max": 60800
+},
+{
+"marks": 510,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 36500,
+"rank_avg": 47400,
+"rank_max": 58200
+},
+{
+"marks": 515,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 34700,
+"rank_avg": 45250,
+"rank_max": 55700
+},
+{
+"marks": 520,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 33000,
+"rank_avg": 43200,
+"rank_max": 53300
+},
+{
+"marks": 525,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 31300,
+"rank_avg": 41200,
+"rank_max": 51000
+},
+{
+"marks": 530,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 29700,
+"rank_avg": 39300,
+"rank_max": 48700
+},
+{
+"marks": 535,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 28200,
+"rank_avg": 37500,
+"rank_max": 46600
+},
+{
+"marks": 540,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 26800,
+"rank_avg": 35800,
+"rank_max": 44500
+},
+{
+"marks": 545,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 25400,
+"rank_avg": 34150,
+"rank_max": 42500
+},
+{
+"marks": 550,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 24100,
+"rank_avg": 32600,
+"rank_max": 40600
+},
+{
+"marks": 552,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 23600,
+"rank_avg": 32000,
+"rank_max": 39850
+},
+{
+"marks": 554,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 23100,
+"rank_avg": 31400,
+"rank_max": 39100
+},
+{
+"marks": 556,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 22600,
+"rank_avg": 30800,
+"rank_max": 38400
+},
+{
+"marks": 558,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 22100,
+"rank_avg": 30200,
+"rank_max": 37700
+},
+{
+"marks": 560,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 21600,
+"rank_avg": 29600,
+"rank_max": 37000
+},
+{
+"marks": 562,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 21150,
+"rank_avg": 29050,
+"rank_max": 36300
+},
+{
+"marks": 564,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 20700,
+"rank_avg": 28500,
+"rank_max": 35600
+},
+{
+"marks": 566,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 20250,
+"rank_avg": 27950,
+"rank_max": 34950
+},
+{
+"marks": 568,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 19800,
+"rank_avg": 27400,
+"rank_max": 34300
+},
+{
+"marks": 570,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 19350,
+"rank_avg": 26850,
+"rank_max": 33650
+},
+{
+"marks": 572,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 18900,
+"rank_avg": 26300,
+"rank_max": 33000
+},
+{
+"marks": 574,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 18450,
+"rank_avg": 25750,
+"rank_max": 32350
+},
+{
+"marks": 576,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 18000,
+"rank_avg": 25200,
+"rank_max": 31700
+},
+{
+"marks": 578,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 17550,
+"rank_avg": 24650,
+"rank_max": 31050
+},
+{
+"marks": 580,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 17100,
+"rank_avg": 24100,
+"rank_max": 30400
+},
+{
+"marks": 582,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 16650,
+"rank_avg": 23550,
+"rank_max": 29750
+},
+{
+"marks": 584,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 16200,
+"rank_avg": 23000,
+"rank_max": 29100
+},
+{
+"marks": 586,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 15750,
+"rank_avg": 22450,
+"rank_max": 28450
+},
+{
+"marks": 588,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 15300,
+"rank_avg": 21900,
+"rank_max": 27800
+},
+{
+"marks": 590,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 14850,
+"rank_avg": 21350,
+"rank_max": 27150
+},
+{
+"marks": 592,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 14400,
+"rank_avg": 20800,
+"rank_max": 26500
+},
+{
+"marks": 594,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 13950,
+"rank_avg": 20250,
+"rank_max": 25850
+},
+{
+"marks": 596,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 13500,
+"rank_avg": 19700,
+"rank_max": 25200
+},
+{
+"marks": 598,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 13050,
+"rank_avg": 19150,
+"rank_max": 24550
+},
+{
+"marks": 600,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 12600,
+"rank_avg": 18600,
+"rank_max": 23900
+},
+{
+"marks": 602,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 12150,
+"rank_avg": 18050,
+"rank_max": 23250
+},
+{
+"marks": 604,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 11700,
+"rank_avg": 17500,
+"rank_max": 22600
+},
+{
+"marks": 606,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 11250,
+"rank_avg": 16950,
+"rank_max": 21950
+},
+{
+"marks": 608,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 10800,
+"rank_avg": 16400,
+"rank_max": 21300
+},
+{
+"marks": 610,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 10350,
+"rank_avg": 15850,
+"rank_max": 20650
+},
+{
+"marks": 612,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 9900,
+"rank_avg": 15300,
+"rank_max": 20000
+},
+{
+"marks": 614,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 9480,
+"rank_avg": 14750,
+"rank_max": 19350
+},
+{
+"marks": 616,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 9060,
+"rank_avg": 14200,
+"rank_max": 18700
+},
+{
+"marks": 618,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 8640,
+"rank_avg": 13650,
+"rank_max": 18050
+},
+{
+"marks": 620,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 8220,
+"rank_avg": 13100,
+"rank_max": 17400
+},
+{
+"marks": 622,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 7800,
+"rank_avg": 12550,
+"rank_max": 16750
+},
+{
+"marks": 624,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 7400,
+"rank_avg": 12000,
+"rank_max": 16100
+},
+{
+"marks": 626,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 7000,
+"rank_avg": 11450,
+"rank_max": 15450
+},
+{
+"marks": 628,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 6620,
+"rank_avg": 10900,
+"rank_max": 14800
+},
+{
+"marks": 630,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 6240,
+"rank_avg": 10350,
+"rank_max": 14150
+},
+{
+"marks": 632,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 5860,
+"rank_avg": 9810,
+"rank_max": 13500
+},
+{
+"marks": 634,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 5500,
+"rank_avg": 9270,
+"rank_max": 12850
+},
+{
+"marks": 636,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 5140,
+"rank_avg": 8740,
+"rank_max": 12220
+},
+{
+"marks": 638,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 4790,
+"rank_avg": 8220,
+"rank_max": 11600
+},
+{
+"marks": 640,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 4450,
+"rank_avg": 7710,
+"rank_max": 10990
+},
+{
+"marks": 642,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 4120,
+"rank_avg": 7210,
+"rank_max": 10390
+},
+{
+"marks": 644,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 3800,
+"rank_avg": 6720,
+"rank_max": 9800
+},
+{
+"marks": 646,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 3500,
+"rank_avg": 6240,
+"rank_max": 9220
+},
+{
+"marks": 648,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 3210,
+"rank_avg": 5770,
+"rank_max": 8650
+},
+{
+"marks": 650,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 2930,
+"rank_avg": 5310,
+"rank_max": 8100
+},
+{
+"marks": 652,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 2660,
+"rank_avg": 4860,
+"rank_max": 7560
+},
+{
+"marks": 654,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 2400,
+"rank_avg": 4420,
+"rank_max": 7030
+},
+{
+"marks": 656,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 2160,
+"rank_avg": 4000,
+"rank_max": 6520
+},
+{
+"marks": 658,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 1930,
+"rank_avg": 3600,
+"rank_max": 6030
+},
+{
+"marks": 660,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 1710,
+"rank_avg": 3220,
+"rank_max": 5560
+},
+{
+"marks": 662,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 1510,
+"rank_avg": 2860,
+"rank_max": 5110
+},
+{
+"marks": 664,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 1330,
+"rank_avg": 2520,
+"rank_max": 4680
+},
+{
+"marks": 666,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 1160,
+"rank_avg": 2200,
+"rank_max": 4270
+},
+{
+"marks": 668,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 1010,
+"rank_avg": 1910,
+"rank_max": 3880
+},
+{
+"marks": 670,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 870,
+"rank_avg": 1640,
+"rank_max": 3510
+},
+{
+"marks": 672,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 750,
+"rank_avg": 1400,
+"rank_max": 3160
+},
+{
+"marks": 674,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 640,
+"rank_avg": 1180,
+"rank_max": 2830
+},
+{
+"marks": 676,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 540,
+"rank_avg": 990,
+"rank_max": 2520
+},
+{
+"marks": 678,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 450,
+"rank_avg": 820,
+"rank_max": 2230
+},
+{
+"marks": 680,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 375,
+"rank_avg": 675,
+"rank_max": 1960
+},
+{
+"marks": 682,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 310,
+"rank_avg": 550,
+"rank_max": 1710
+},
+{
+"marks": 684,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 255,
+"rank_avg": 445,
+"rank_max": 1480
+},
+{
+"marks": 686,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 208,
+"rank_avg": 355,
+"rank_max": 1270
+},
+{
+"marks": 688,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 168,
+"rank_avg": 281,
+"rank_max": 1080
+},
+{
+"marks": 690,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 134,
+"rank_avg": 221,
+"rank_max": 910
+},
+{
+"marks": 692,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 106,
+"rank_avg": 173,
+"rank_max": 760
+},
+{
+"marks": 694,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 83,
+"rank_avg": 134,
+"rank_max": 630
+},
+{
+"marks": 696,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 64,
+"rank_avg": 103,
+"rank_max": 515
+},
+{
+"marks": 698,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 49,
+"rank_avg": 79,
+"rank_max": 415
+},
+{
+"marks": 700,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 37,
+"rank_avg": 60,
+"rank_max": 330
+},
+{
+"marks": 702,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 28,
+"rank_avg": 45,
+"rank_max": 260
+},
+{
+"marks": 704,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 21,
+"rank_avg": 34,
+"rank_max": 202
+},
+{
+"marks": 706,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 15,
+"rank_avg": 25,
+"rank_max": 155
+},
+{
+"marks": 708,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 11,
+"rank_avg": 18,
+"rank_max": 116
+},
+{
+"marks": 710,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 7,
+"rank_avg": 12,
+"rank_max": 85
+},
+{
+"marks": 712,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 4,
+"rank_avg": 8,
+"rank_max": 60
+},
+{
+"marks": 714,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 2,
+"rank_avg": 5,
+"rank_max": 40
+},
+{
+"marks": 716,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 1,
+"rank_avg": 3,
+"rank_max": 25
+},
+{
+"marks": 718,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 1,
+"rank_avg": 2,
+"rank_max": 12
+},
+{
+"marks": 720,
+"percentile_min": null,
+"percentile_avg": null,
+"percentile_max": null,
+"rank_min": 1,
+"rank_avg": 1,
+"rank_max": 1
+}
+]

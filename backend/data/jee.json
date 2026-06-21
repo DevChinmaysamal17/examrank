@@ -1,0 +1,3386 @@
+[
+    {
+        "marks": -75,
+        "percentile_min": 0.0,
+        "percentile_avg": 0.01,
+        "percentile_max": 0.05,
+        "rank_min": 1400000,
+        "rank_avg": 1450000,
+        "rank_max": 1500000
+    },
+    {
+        "marks": -74,
+        "percentile_min": 0.002,
+        "percentile_avg": 0.0144,
+        "percentile_max": 0.058,
+        "rank_min": 1399800,
+        "rank_avg": 1449800,
+        "rank_max": 1499800
+    },
+    {
+        "marks": -73,
+        "percentile_min": 0.004,
+        "percentile_avg": 0.0188,
+        "percentile_max": 0.066,
+        "rank_min": 1399600,
+        "rank_avg": 1449600,
+        "rank_max": 1499600
+    },
+    {
+        "marks": -72,
+        "percentile_min": 0.006,
+        "percentile_avg": 0.0232,
+        "percentile_max": 0.074,
+        "rank_min": 1399400,
+        "rank_avg": 1449400,
+        "rank_max": 1499400
+    },
+    {
+        "marks": -71,
+        "percentile_min": 0.008,
+        "percentile_avg": 0.0276,
+        "percentile_max": 0.082,
+        "rank_min": 1399200,
+        "rank_avg": 1449200,
+        "rank_max": 1499200
+    },
+    {
+        "marks": -70,
+        "percentile_min": 0.01,
+        "percentile_avg": 0.032,
+        "percentile_max": 0.09,
+        "rank_min": 1399000,
+        "rank_avg": 1449000,
+        "rank_max": 1499000
+    },
+    {
+        "marks": -69,
+        "percentile_min": 0.012,
+        "percentile_avg": 0.0364,
+        "percentile_max": 0.098,
+        "rank_min": 1398800,
+        "rank_avg": 1448800,
+        "rank_max": 1498800
+    },
+    {
+        "marks": -68,
+        "percentile_min": 0.014,
+        "percentile_avg": 0.0408,
+        "percentile_max": 0.106,
+        "rank_min": 1398600,
+        "rank_avg": 1448600,
+        "rank_max": 1498600
+    },
+    {
+        "marks": -67,
+        "percentile_min": 0.016,
+        "percentile_avg": 0.0452,
+        "percentile_max": 0.114,
+        "rank_min": 1398400,
+        "rank_avg": 1448400,
+        "rank_max": 1498400
+    },
+    {
+        "marks": -66,
+        "percentile_min": 0.018,
+        "percentile_avg": 0.0496,
+        "percentile_max": 0.122,
+        "rank_min": 1398200,
+        "rank_avg": 1448200,
+        "rank_max": 1498200
+    },
+    {
+        "marks": -65,
+        "percentile_min": 0.02,
+        "percentile_avg": 0.054,
+        "percentile_max": 0.13,
+        "rank_min": 1398000,
+        "rank_avg": 1448000,
+        "rank_max": 1498000
+    },
+    {
+        "marks": -64,
+        "percentile_min": 0.022,
+        "percentile_avg": 0.0584,
+        "percentile_max": 0.138,
+        "rank_min": 1397800,
+        "rank_avg": 1447800,
+        "rank_max": 1497800
+    },
+    {
+        "marks": -63,
+        "percentile_min": 0.024,
+        "percentile_avg": 0.0628,
+        "percentile_max": 0.146,
+        "rank_min": 1397600,
+        "rank_avg": 1447600,
+        "rank_max": 1497600
+    },
+    {
+        "marks": -62,
+        "percentile_min": 0.026,
+        "percentile_avg": 0.0672,
+        "percentile_max": 0.154,
+        "rank_min": 1397400,
+        "rank_avg": 1447400,
+        "rank_max": 1497400
+    },
+    {
+        "marks": -61,
+        "percentile_min": 0.028,
+        "percentile_avg": 0.0716,
+        "percentile_max": 0.162,
+        "rank_min": 1397200,
+        "rank_avg": 1447200,
+        "rank_max": 1497200
+    },
+    {
+        "marks": -60,
+        "percentile_min": 0.03,
+        "percentile_avg": 0.076,
+        "percentile_max": 0.17,
+        "rank_min": 1397000,
+        "rank_avg": 1447000,
+        "rank_max": 1497000
+    },
+    {
+        "marks": -59,
+        "percentile_min": 0.032,
+        "percentile_avg": 0.0804,
+        "percentile_max": 0.178,
+        "rank_min": 1396800,
+        "rank_avg": 1446800,
+        "rank_max": 1496800
+    },
+    {
+        "marks": -58,
+        "percentile_min": 0.034,
+        "percentile_avg": 0.0848,
+        "percentile_max": 0.186,
+        "rank_min": 1396600,
+        "rank_avg": 1446600,
+        "rank_max": 1496600
+    },
+    {
+        "marks": -57,
+        "percentile_min": 0.036,
+        "percentile_avg": 0.0892,
+        "percentile_max": 0.194,
+        "rank_min": 1396400,
+        "rank_avg": 1446400,
+        "rank_max": 1496400
+    },
+    {
+        "marks": -56,
+        "percentile_min": 0.038,
+        "percentile_avg": 0.0936,
+        "percentile_max": 0.202,
+        "rank_min": 1396200,
+        "rank_avg": 1446200,
+        "rank_max": 1496200
+    },
+    {
+        "marks": -55,
+        "percentile_min": 0.04,
+        "percentile_avg": 0.098,
+        "percentile_max": 0.21,
+        "rank_min": 1396000,
+        "rank_avg": 1446000,
+        "rank_max": 1496000
+    },
+    {
+        "marks": -54,
+        "percentile_min": 0.042,
+        "percentile_avg": 0.1024,
+        "percentile_max": 0.218,
+        "rank_min": 1395800,
+        "rank_avg": 1445800,
+        "rank_max": 1495800
+    },
+    {
+        "marks": -53,
+        "percentile_min": 0.044,
+        "percentile_avg": 0.1068,
+        "percentile_max": 0.226,
+        "rank_min": 1395600,
+        "rank_avg": 1445600,
+        "rank_max": 1495600
+    },
+    {
+        "marks": -52,
+        "percentile_min": 0.046,
+        "percentile_avg": 0.1112,
+        "percentile_max": 0.234,
+        "rank_min": 1395400,
+        "rank_avg": 1445400,
+        "rank_max": 1495400
+    },
+    {
+        "marks": -51,
+        "percentile_min": 0.048,
+        "percentile_avg": 0.1156,
+        "percentile_max": 0.242,
+        "rank_min": 1395200,
+        "rank_avg": 1445200,
+        "rank_max": 1495200
+    },
+    {
+        "marks": -50,
+        "percentile_min": 0.05,
+        "percentile_avg": 0.12,
+        "percentile_max": 0.25,
+        "rank_min": 1395000,
+        "rank_avg": 1445000,
+        "rank_max": 1495000
+    },
+    {
+        "marks": -49,
+        "percentile_min": 0.06,
+        "percentile_avg": 0.1412,
+        "percentile_max": 0.288,
+        "rank_min": 1394400,
+        "rank_avg": 1444400,
+        "rank_max": 1494600
+    },
+    {
+        "marks": -48,
+        "percentile_min": 0.07,
+        "percentile_avg": 0.1624,
+        "percentile_max": 0.326,
+        "rank_min": 1393800,
+        "rank_avg": 1443800,
+        "rank_max": 1494200
+    },
+    {
+        "marks": -47,
+        "percentile_min": 0.08,
+        "percentile_avg": 0.1836,
+        "percentile_max": 0.364,
+        "rank_min": 1393200,
+        "rank_avg": 1443200,
+        "rank_max": 1493800
+    },
+    {
+        "marks": -46,
+        "percentile_min": 0.09,
+        "percentile_avg": 0.2048,
+        "percentile_max": 0.402,
+        "rank_min": 1392600,
+        "rank_avg": 1442600,
+        "rank_max": 1493400
+    },
+    {
+        "marks": -45,
+        "percentile_min": 0.1,
+        "percentile_avg": 0.226,
+        "percentile_max": 0.44,
+        "rank_min": 1392000,
+        "rank_avg": 1442000,
+        "rank_max": 1493000
+    },
+    {
+        "marks": -44,
+        "percentile_min": 0.11,
+        "percentile_avg": 0.2472,
+        "percentile_max": 0.478,
+        "rank_min": 1391400,
+        "rank_avg": 1441400,
+        "rank_max": 1492600
+    },
+    {
+        "marks": -43,
+        "percentile_min": 0.12,
+        "percentile_avg": 0.2684,
+        "percentile_max": 0.516,
+        "rank_min": 1390800,
+        "rank_avg": 1440800,
+        "rank_max": 1492200
+    },
+    {
+        "marks": -42,
+        "percentile_min": 0.13,
+        "percentile_avg": 0.2896,
+        "percentile_max": 0.554,
+        "rank_min": 1390200,
+        "rank_avg": 1440200,
+        "rank_max": 1491800
+    },
+    {
+        "marks": -41,
+        "percentile_min": 0.14,
+        "percentile_avg": 0.3108,
+        "percentile_max": 0.592,
+        "rank_min": 1389600,
+        "rank_avg": 1439600,
+        "rank_max": 1491400
+    },
+    {
+        "marks": -40,
+        "percentile_min": 0.15,
+        "percentile_avg": 0.332,
+        "percentile_max": 0.63,
+        "rank_min": 1389000,
+        "rank_avg": 1439000,
+        "rank_max": 1491000
+    },
+    {
+        "marks": -39,
+        "percentile_min": 0.16,
+        "percentile_avg": 0.3532,
+        "percentile_max": 0.668,
+        "rank_min": 1388400,
+        "rank_avg": 1438400,
+        "rank_max": 1490600
+    },
+    {
+        "marks": -38,
+        "percentile_min": 0.17,
+        "percentile_avg": 0.3744,
+        "percentile_max": 0.706,
+        "rank_min": 1387800,
+        "rank_avg": 1437800,
+        "rank_max": 1490200
+    },
+    {
+        "marks": -37,
+        "percentile_min": 0.18,
+        "percentile_avg": 0.3956,
+        "percentile_max": 0.744,
+        "rank_min": 1387200,
+        "rank_avg": 1437200,
+        "rank_max": 1489800
+    },
+    {
+        "marks": -36,
+        "percentile_min": 0.19,
+        "percentile_avg": 0.4168,
+        "percentile_max": 0.782,
+        "rank_min": 1386600,
+        "rank_avg": 1436600,
+        "rank_max": 1489400
+    },
+    {
+        "marks": -35,
+        "percentile_min": 0.2,
+        "percentile_avg": 0.438,
+        "percentile_max": 0.82,
+        "rank_min": 1386000,
+        "rank_avg": 1436000,
+        "rank_max": 1489000
+    },
+    {
+        "marks": -34,
+        "percentile_min": 0.21,
+        "percentile_avg": 0.4592,
+        "percentile_max": 0.858,
+        "rank_min": 1385400,
+        "rank_avg": 1435400,
+        "rank_max": 1488600
+    },
+    {
+        "marks": -33,
+        "percentile_min": 0.22,
+        "percentile_avg": 0.4804,
+        "percentile_max": 0.896,
+        "rank_min": 1384800,
+        "rank_avg": 1434800,
+        "rank_max": 1488200
+    },
+    {
+        "marks": -32,
+        "percentile_min": 0.23,
+        "percentile_avg": 0.5016,
+        "percentile_max": 0.934,
+        "rank_min": 1384200,
+        "rank_avg": 1434200,
+        "rank_max": 1487800
+    },
+    {
+        "marks": -31,
+        "percentile_min": 0.24,
+        "percentile_avg": 0.5228,
+        "percentile_max": 0.972,
+        "rank_min": 1383600,
+        "rank_avg": 1433600,
+        "rank_max": 1487400
+    },
+    {
+        "marks": -30,
+        "percentile_min": 0.25,
+        "percentile_avg": 0.544,
+        "percentile_max": 1.01,
+        "rank_min": 1383000,
+        "rank_avg": 1433000,
+        "rank_max": 1487000
+    },
+    {
+        "marks": -29,
+        "percentile_min": 0.26,
+        "percentile_avg": 0.5652,
+        "percentile_max": 1.048,
+        "rank_min": 1382400,
+        "rank_avg": 1432400,
+        "rank_max": 1486600
+    },
+    {
+        "marks": -28,
+        "percentile_min": 0.27,
+        "percentile_avg": 0.5864,
+        "percentile_max": 1.086,
+        "rank_min": 1381800,
+        "rank_avg": 1431800,
+        "rank_max": 1486200
+    },
+    {
+        "marks": -27,
+        "percentile_min": 0.28,
+        "percentile_avg": 0.6076,
+        "percentile_max": 1.124,
+        "rank_min": 1381200,
+        "rank_avg": 1431200,
+        "rank_max": 1485800
+    },
+    {
+        "marks": -26,
+        "percentile_min": 0.29,
+        "percentile_avg": 0.6288,
+        "percentile_max": 1.162,
+        "rank_min": 1380600,
+        "rank_avg": 1430600,
+        "rank_max": 1485400
+    },
+    {
+        "marks": -25,
+        "percentile_min": 0.3,
+        "percentile_avg": 0.65,
+        "percentile_max": 1.2,
+        "rank_min": 1380000,
+        "rank_avg": 1430000,
+        "rank_max": 1485000
+    },
+    {
+        "marks": -24,
+        "percentile_min": 0.388,
+        "percentile_avg": 0.816,
+        "percentile_max": 1.456,
+        "rank_min": 1376800,
+        "rank_avg": 1427200,
+        "rank_max": 1482400
+    },
+    {
+        "marks": -23,
+        "percentile_min": 0.476,
+        "percentile_avg": 0.982,
+        "percentile_max": 1.712,
+        "rank_min": 1373600,
+        "rank_avg": 1424400,
+        "rank_max": 1479800
+    },
+    {
+        "marks": -22,
+        "percentile_min": 0.564,
+        "percentile_avg": 1.148,
+        "percentile_max": 1.968,
+        "rank_min": 1370400,
+        "rank_avg": 1421600,
+        "rank_max": 1477200
+    },
+    {
+        "marks": -21,
+        "percentile_min": 0.652,
+        "percentile_avg": 1.314,
+        "percentile_max": 2.224,
+        "rank_min": 1367200,
+        "rank_avg": 1418800,
+        "rank_max": 1474600
+    },
+    {
+        "marks": -20,
+        "percentile_min": 0.74,
+        "percentile_avg": 1.48,
+        "percentile_max": 2.48,
+        "rank_min": 1364000,
+        "rank_avg": 1416000,
+        "rank_max": 1472000
+    },
+    {
+        "marks": -19,
+        "percentile_min": 0.828,
+        "percentile_avg": 1.646,
+        "percentile_max": 2.736,
+        "rank_min": 1360800,
+        "rank_avg": 1413200,
+        "rank_max": 1469400
+    },
+    {
+        "marks": -18,
+        "percentile_min": 0.916,
+        "percentile_avg": 1.812,
+        "percentile_max": 2.992,
+        "rank_min": 1357600,
+        "rank_avg": 1410400,
+        "rank_max": 1466800
+    },
+    {
+        "marks": -17,
+        "percentile_min": 1.004,
+        "percentile_avg": 1.978,
+        "percentile_max": 3.248,
+        "rank_min": 1354400,
+        "rank_avg": 1407600,
+        "rank_max": 1464200
+    },
+    {
+        "marks": -16,
+        "percentile_min": 1.092,
+        "percentile_avg": 2.144,
+        "percentile_max": 3.504,
+        "rank_min": 1351200,
+        "rank_avg": 1404800,
+        "rank_max": 1461600
+    },
+    {
+        "marks": -15,
+        "percentile_min": 1.18,
+        "percentile_avg": 2.31,
+        "percentile_max": 3.76,
+        "rank_min": 1348000,
+        "rank_avg": 1402000,
+        "rank_max": 1459000
+    },
+    {
+        "marks": -14,
+        "percentile_min": 1.268,
+        "percentile_avg": 2.476,
+        "percentile_max": 4.016,
+        "rank_min": 1344800,
+        "rank_avg": 1399200,
+        "rank_max": 1456400
+    },
+    {
+        "marks": -13,
+        "percentile_min": 1.356,
+        "percentile_avg": 2.642,
+        "percentile_max": 4.272,
+        "rank_min": 1341600,
+        "rank_avg": 1396400,
+        "rank_max": 1453800
+    },
+    {
+        "marks": -12,
+        "percentile_min": 1.444,
+        "percentile_avg": 2.808,
+        "percentile_max": 4.528,
+        "rank_min": 1338400,
+        "rank_avg": 1393600,
+        "rank_max": 1451200
+    },
+    {
+        "marks": -11,
+        "percentile_min": 1.532,
+        "percentile_avg": 2.974,
+        "percentile_max": 4.784,
+        "rank_min": 1335200,
+        "rank_avg": 1390800,
+        "rank_max": 1448600
+    },
+    {
+        "marks": -10,
+        "percentile_min": 1.62,
+        "percentile_avg": 3.14,
+        "percentile_max": 5.04,
+        "rank_min": 1332000,
+        "rank_avg": 1388000,
+        "rank_max": 1446000
+    },
+    {
+        "marks": -9,
+        "percentile_min": 1.708,
+        "percentile_avg": 3.306,
+        "percentile_max": 5.296,
+        "rank_min": 1328800,
+        "rank_avg": 1385200,
+        "rank_max": 1443400
+    },
+    {
+        "marks": -8,
+        "percentile_min": 1.796,
+        "percentile_avg": 3.472,
+        "percentile_max": 5.552,
+        "rank_min": 1325600,
+        "rank_avg": 1382400,
+        "rank_max": 1440800
+    },
+    {
+        "marks": -7,
+        "percentile_min": 1.884,
+        "percentile_avg": 3.638,
+        "percentile_max": 5.808,
+        "rank_min": 1322400,
+        "rank_avg": 1379600,
+        "rank_max": 1438200
+    },
+    {
+        "marks": -6,
+        "percentile_min": 1.972,
+        "percentile_avg": 3.804,
+        "percentile_max": 6.064,
+        "rank_min": 1319200,
+        "rank_avg": 1376800,
+        "rank_max": 1435600
+    },
+    {
+        "marks": -5,
+        "percentile_min": 2.06,
+        "percentile_avg": 3.97,
+        "percentile_max": 6.32,
+        "rank_min": 1316000,
+        "rank_avg": 1374000,
+        "rank_max": 1433000
+    },
+    {
+        "marks": -4,
+        "percentile_min": 2.148,
+        "percentile_avg": 4.136,
+        "percentile_max": 6.576,
+        "rank_min": 1312800,
+        "rank_avg": 1371200,
+        "rank_max": 1430400
+    },
+    {
+        "marks": -3,
+        "percentile_min": 2.236,
+        "percentile_avg": 4.302,
+        "percentile_max": 6.832,
+        "rank_min": 1309600,
+        "rank_avg": 1368400,
+        "rank_max": 1427800
+    },
+    {
+        "marks": -2,
+        "percentile_min": 2.324,
+        "percentile_avg": 4.468,
+        "percentile_max": 7.088,
+        "rank_min": 1306400,
+        "rank_avg": 1365600,
+        "rank_max": 1425200
+    },
+    {
+        "marks": -1,
+        "percentile_min": 2.412,
+        "percentile_avg": 4.634,
+        "percentile_max": 7.344,
+        "rank_min": 1303200,
+        "rank_avg": 1362800,
+        "rank_max": 1422600
+    },
+    {
+        "marks": 0,
+        "percentile_min": 2.5,
+        "percentile_avg": 4.8,
+        "percentile_max": 7.6,
+        "rank_min": 1300000,
+        "rank_avg": 1360000,
+        "rank_max": 1420000
+    },
+    {
+        "marks": 1,
+        "percentile_min": 3.04,
+        "percentile_avg": 5.46,
+        "percentile_max": 8.54,
+        "rank_min": 1288000,
+        "rank_avg": 1350000,
+        "rank_max": 1411000
+    },
+    {
+        "marks": 2,
+        "percentile_min": 3.58,
+        "percentile_avg": 6.12,
+        "percentile_max": 9.48,
+        "rank_min": 1276000,
+        "rank_avg": 1340000,
+        "rank_max": 1402000
+    },
+    {
+        "marks": 3,
+        "percentile_min": 4.12,
+        "percentile_avg": 6.78,
+        "percentile_max": 10.42,
+        "rank_min": 1264000,
+        "rank_avg": 1330000,
+        "rank_max": 1393000
+    },
+    {
+        "marks": 4,
+        "percentile_min": 4.66,
+        "percentile_avg": 7.44,
+        "percentile_max": 11.36,
+        "rank_min": 1252000,
+        "rank_avg": 1320000,
+        "rank_max": 1384000
+    },
+    {
+        "marks": 5,
+        "percentile_min": 5.2,
+        "percentile_avg": 8.1,
+        "percentile_max": 12.3,
+        "rank_min": 1240000,
+        "rank_avg": 1310000,
+        "rank_max": 1375000
+    },
+    {
+        "marks": 6,
+        "percentile_min": 5.98,
+        "percentile_avg": 9.18,
+        "percentile_max": 13.48,
+        "rank_min": 1224000,
+        "rank_avg": 1294000,
+        "rank_max": 1360000
+    },
+    {
+        "marks": 7,
+        "percentile_min": 6.76,
+        "percentile_avg": 10.26,
+        "percentile_max": 14.66,
+        "rank_min": 1208000,
+        "rank_avg": 1278000,
+        "rank_max": 1345000
+    },
+    {
+        "marks": 8,
+        "percentile_min": 7.54,
+        "percentile_avg": 11.34,
+        "percentile_max": 15.84,
+        "rank_min": 1192000,
+        "rank_avg": 1262000,
+        "rank_max": 1330000
+    },
+    {
+        "marks": 9,
+        "percentile_min": 8.32,
+        "percentile_avg": 12.42,
+        "percentile_max": 17.02,
+        "rank_min": 1176000,
+        "rank_avg": 1246000,
+        "rank_max": 1315000
+    },
+    {
+        "marks": 10,
+        "percentile_min": 9.1,
+        "percentile_avg": 13.5,
+        "percentile_max": 18.2,
+        "rank_min": 1160000,
+        "rank_avg": 1230000,
+        "rank_max": 1300000
+    },
+    {
+        "marks": 11,
+        "percentile_min": 10.18,
+        "percentile_avg": 14.68,
+        "percentile_max": 19.58,
+        "rank_min": 1140000,
+        "rank_avg": 1214000,
+        "rank_max": 1284000
+    },
+    {
+        "marks": 12,
+        "percentile_min": 11.26,
+        "percentile_avg": 15.86,
+        "percentile_max": 20.96,
+        "rank_min": 1120000,
+        "rank_avg": 1198000,
+        "rank_max": 1268000
+    },
+    {
+        "marks": 13,
+        "percentile_min": 12.34,
+        "percentile_avg": 17.04,
+        "percentile_max": 22.34,
+        "rank_min": 1100000,
+        "rank_avg": 1182000,
+        "rank_max": 1252000
+    },
+    {
+        "marks": 14,
+        "percentile_min": 13.42,
+        "percentile_avg": 18.22,
+        "percentile_max": 23.72,
+        "rank_min": 1080000,
+        "rank_avg": 1166000,
+        "rank_max": 1236000
+    },
+    {
+        "marks": 15,
+        "percentile_min": 14.5,
+        "percentile_avg": 19.4,
+        "percentile_max": 25.1,
+        "rank_min": 1060000,
+        "rank_avg": 1150000,
+        "rank_max": 1220000
+    },
+    {
+        "marks": 16,
+        "percentile_min": 15.2,
+        "percentile_avg": 20.24,
+        "percentile_max": 26.0933,
+        "rank_min": 1046000,
+        "rank_avg": 1136667,
+        "rank_max": 1208667
+    },
+    {
+        "marks": 17,
+        "percentile_min": 15.9,
+        "percentile_avg": 21.08,
+        "percentile_max": 27.0867,
+        "rank_min": 1032000,
+        "rank_avg": 1123333,
+        "rank_max": 1197333
+    },
+    {
+        "marks": 18,
+        "percentile_min": 16.6,
+        "percentile_avg": 21.92,
+        "percentile_max": 28.08,
+        "rank_min": 1018000,
+        "rank_avg": 1110000,
+        "rank_max": 1186000
+    },
+    {
+        "marks": 19,
+        "percentile_min": 17.3,
+        "percentile_avg": 22.76,
+        "percentile_max": 29.0733,
+        "rank_min": 1004000,
+        "rank_avg": 1096667,
+        "rank_max": 1174667
+    },
+    {
+        "marks": 20,
+        "percentile_min": 18.0,
+        "percentile_avg": 23.6,
+        "percentile_max": 30.0667,
+        "rank_min": 990000,
+        "rank_avg": 1083333,
+        "rank_max": 1163333
+    },
+    {
+        "marks": 21,
+        "percentile_min": 18.7,
+        "percentile_avg": 24.44,
+        "percentile_max": 31.06,
+        "rank_min": 976000,
+        "rank_avg": 1070000,
+        "rank_max": 1152000
+    },
+    {
+        "marks": 22,
+        "percentile_min": 19.4,
+        "percentile_avg": 25.28,
+        "percentile_max": 32.0533,
+        "rank_min": 962000,
+        "rank_avg": 1056667,
+        "rank_max": 1140667
+    },
+    {
+        "marks": 23,
+        "percentile_min": 20.1,
+        "percentile_avg": 26.12,
+        "percentile_max": 33.0467,
+        "rank_min": 948000,
+        "rank_avg": 1043333,
+        "rank_max": 1129333
+    },
+    {
+        "marks": 24,
+        "percentile_min": 20.8,
+        "percentile_avg": 26.96,
+        "percentile_max": 34.04,
+        "rank_min": 934000,
+        "rank_avg": 1030000,
+        "rank_max": 1118000
+    },
+    {
+        "marks": 25,
+        "percentile_min": 21.5,
+        "percentile_avg": 27.8,
+        "percentile_max": 35.0333,
+        "rank_min": 920000,
+        "rank_avg": 1016667,
+        "rank_max": 1106667
+    },
+    {
+        "marks": 26,
+        "percentile_min": 22.2,
+        "percentile_avg": 28.64,
+        "percentile_max": 36.0267,
+        "rank_min": 906000,
+        "rank_avg": 1003333,
+        "rank_max": 1095333
+    },
+    {
+        "marks": 27,
+        "percentile_min": 22.9,
+        "percentile_avg": 29.48,
+        "percentile_max": 37.02,
+        "rank_min": 892000,
+        "rank_avg": 990000,
+        "rank_max": 1084000
+    },
+    {
+        "marks": 28,
+        "percentile_min": 23.6,
+        "percentile_avg": 30.32,
+        "percentile_max": 38.0133,
+        "rank_min": 878000,
+        "rank_avg": 976667,
+        "rank_max": 1072667
+    },
+    {
+        "marks": 29,
+        "percentile_min": 24.3,
+        "percentile_avg": 31.16,
+        "percentile_max": 39.0067,
+        "rank_min": 864000,
+        "rank_avg": 963333,
+        "rank_max": 1061333
+    },
+    {
+        "marks": 30,
+        "percentile_min": 25.0,
+        "percentile_avg": 32.0,
+        "percentile_max": 40.0,
+        "rank_min": 850000,
+        "rank_avg": 950000,
+        "rank_max": 1050000
+    },
+    {
+        "marks": 31,
+        "percentile_min": 26.0,
+        "percentile_avg": 33.15,
+        "percentile_max": 41.25,
+        "rank_min": 832500,
+        "rank_avg": 933500,
+        "rank_max": 1035000
+    },
+    {
+        "marks": 32,
+        "percentile_min": 27.0,
+        "percentile_avg": 34.3,
+        "percentile_max": 42.5,
+        "rank_min": 815000,
+        "rank_avg": 917000,
+        "rank_max": 1020000
+    },
+    {
+        "marks": 33,
+        "percentile_min": 28.0,
+        "percentile_avg": 35.45,
+        "percentile_max": 43.75,
+        "rank_min": 797500,
+        "rank_avg": 900500,
+        "rank_max": 1005000
+    },
+    {
+        "marks": 34,
+        "percentile_min": 29.0,
+        "percentile_avg": 36.6,
+        "percentile_max": 45.0,
+        "rank_min": 780000,
+        "rank_avg": 884000,
+        "rank_max": 990000
+    },
+    {
+        "marks": 35,
+        "percentile_min": 30.0,
+        "percentile_avg": 37.75,
+        "percentile_max": 46.25,
+        "rank_min": 762500,
+        "rank_avg": 867500,
+        "rank_max": 975000
+    },
+    {
+        "marks": 36,
+        "percentile_min": 31.0,
+        "percentile_avg": 38.9,
+        "percentile_max": 47.5,
+        "rank_min": 745000,
+        "rank_avg": 851000,
+        "rank_max": 960000
+    },
+    {
+        "marks": 37,
+        "percentile_min": 32.0,
+        "percentile_avg": 40.05,
+        "percentile_max": 48.75,
+        "rank_min": 727500,
+        "rank_avg": 834500,
+        "rank_max": 945000
+    },
+    {
+        "marks": 38,
+        "percentile_min": 33.0,
+        "percentile_avg": 41.2,
+        "percentile_max": 50.0,
+        "rank_min": 710000,
+        "rank_avg": 818000,
+        "rank_max": 930000
+    },
+    {
+        "marks": 39,
+        "percentile_min": 34.0,
+        "percentile_avg": 42.35,
+        "percentile_max": 51.25,
+        "rank_min": 692500,
+        "rank_avg": 801500,
+        "rank_max": 915000
+    },
+    {
+        "marks": 40,
+        "percentile_min": 35.0,
+        "percentile_avg": 43.5,
+        "percentile_max": 52.5,
+        "rank_min": 675000,
+        "rank_avg": 785000,
+        "rank_max": 900000
+    },
+    {
+        "marks": 41,
+        "percentile_min": 36.0,
+        "percentile_avg": 44.65,
+        "percentile_max": 53.75,
+        "rank_min": 657500,
+        "rank_avg": 768500,
+        "rank_max": 885000
+    },
+    {
+        "marks": 42,
+        "percentile_min": 37.0,
+        "percentile_avg": 45.8,
+        "percentile_max": 55.0,
+        "rank_min": 640000,
+        "rank_avg": 752000,
+        "rank_max": 870000
+    },
+    {
+        "marks": 43,
+        "percentile_min": 38.0,
+        "percentile_avg": 46.95,
+        "percentile_max": 56.25,
+        "rank_min": 622500,
+        "rank_avg": 735500,
+        "rank_max": 855000
+    },
+    {
+        "marks": 44,
+        "percentile_min": 39.0,
+        "percentile_avg": 48.1,
+        "percentile_max": 57.5,
+        "rank_min": 605000,
+        "rank_avg": 719000,
+        "rank_max": 840000
+    },
+    {
+        "marks": 45,
+        "percentile_min": 40.0,
+        "percentile_avg": 49.25,
+        "percentile_max": 58.75,
+        "rank_min": 587500,
+        "rank_avg": 702500,
+        "rank_max": 825000
+    },
+    {
+        "marks": 46,
+        "percentile_min": 41.0,
+        "percentile_avg": 50.4,
+        "percentile_max": 60.0,
+        "rank_min": 570000,
+        "rank_avg": 686000,
+        "rank_max": 810000
+    },
+    {
+        "marks": 47,
+        "percentile_min": 42.0,
+        "percentile_avg": 51.55,
+        "percentile_max": 61.25,
+        "rank_min": 552500,
+        "rank_avg": 669500,
+        "rank_max": 795000
+    },
+    {
+        "marks": 48,
+        "percentile_min": 43.0,
+        "percentile_avg": 52.7,
+        "percentile_max": 62.5,
+        "rank_min": 535000,
+        "rank_avg": 653000,
+        "rank_max": 780000
+    },
+    {
+        "marks": 49,
+        "percentile_min": 44.0,
+        "percentile_avg": 53.85,
+        "percentile_max": 63.75,
+        "rank_min": 517500,
+        "rank_avg": 636500,
+        "rank_max": 765000
+    },
+    {
+        "marks": 50,
+        "percentile_min": 45.0,
+        "percentile_avg": 55.0,
+        "percentile_max": 65.0,
+        "rank_min": 500000,
+        "rank_avg": 620000,
+        "rank_max": 750000
+    },
+    {
+        "marks": 51,
+        "percentile_min": 46.0,
+        "percentile_avg": 56.0,
+        "percentile_max": 65.9,
+        "rank_min": 487500,
+        "rank_avg": 606500,
+        "rank_max": 736500
+    },
+    {
+        "marks": 52,
+        "percentile_min": 47.0,
+        "percentile_avg": 57.0,
+        "percentile_max": 66.8,
+        "rank_min": 475000,
+        "rank_avg": 593000,
+        "rank_max": 723000
+    },
+    {
+        "marks": 53,
+        "percentile_min": 48.0,
+        "percentile_avg": 58.0,
+        "percentile_max": 67.7,
+        "rank_min": 462500,
+        "rank_avg": 579500,
+        "rank_max": 709500
+    },
+    {
+        "marks": 54,
+        "percentile_min": 49.0,
+        "percentile_avg": 59.0,
+        "percentile_max": 68.6,
+        "rank_min": 450000,
+        "rank_avg": 566000,
+        "rank_max": 696000
+    },
+    {
+        "marks": 55,
+        "percentile_min": 50.0,
+        "percentile_avg": 60.0,
+        "percentile_max": 69.5,
+        "rank_min": 437500,
+        "rank_avg": 552500,
+        "rank_max": 682500
+    },
+    {
+        "marks": 56,
+        "percentile_min": 51.0,
+        "percentile_avg": 61.0,
+        "percentile_max": 70.4,
+        "rank_min": 425000,
+        "rank_avg": 539000,
+        "rank_max": 669000
+    },
+    {
+        "marks": 57,
+        "percentile_min": 52.0,
+        "percentile_avg": 62.0,
+        "percentile_max": 71.3,
+        "rank_min": 412500,
+        "rank_avg": 525500,
+        "rank_max": 655500
+    },
+    {
+        "marks": 58,
+        "percentile_min": 53.0,
+        "percentile_avg": 63.0,
+        "percentile_max": 72.2,
+        "rank_min": 400000,
+        "rank_avg": 512000,
+        "rank_max": 642000
+    },
+    {
+        "marks": 59,
+        "percentile_min": 54.0,
+        "percentile_avg": 64.0,
+        "percentile_max": 73.1,
+        "rank_min": 387500,
+        "rank_avg": 498500,
+        "rank_max": 628500
+    },
+    {
+        "marks": 60,
+        "percentile_min": 55.0,
+        "percentile_avg": 65.0,
+        "percentile_max": 74.0,
+        "rank_min": 375000,
+        "rank_avg": 485000,
+        "rank_max": 615000
+    },
+    {
+        "marks": 61,
+        "percentile_min": 56.0,
+        "percentile_avg": 66.0,
+        "percentile_max": 74.9,
+        "rank_min": 362500,
+        "rank_avg": 471500,
+        "rank_max": 601500
+    },
+    {
+        "marks": 62,
+        "percentile_min": 57.0,
+        "percentile_avg": 67.0,
+        "percentile_max": 75.8,
+        "rank_min": 350000,
+        "rank_avg": 458000,
+        "rank_max": 588000
+    },
+    {
+        "marks": 63,
+        "percentile_min": 58.0,
+        "percentile_avg": 68.0,
+        "percentile_max": 76.7,
+        "rank_min": 337500,
+        "rank_avg": 444500,
+        "rank_max": 574500
+    },
+    {
+        "marks": 64,
+        "percentile_min": 59.0,
+        "percentile_avg": 69.0,
+        "percentile_max": 77.6,
+        "rank_min": 325000,
+        "rank_avg": 431000,
+        "rank_max": 561000
+    },
+    {
+        "marks": 65,
+        "percentile_min": 60.0,
+        "percentile_avg": 70.0,
+        "percentile_max": 78.5,
+        "rank_min": 312500,
+        "rank_avg": 417500,
+        "rank_max": 547500
+    },
+    {
+        "marks": 66,
+        "percentile_min": 61.0,
+        "percentile_avg": 71.0,
+        "percentile_max": 79.4,
+        "rank_min": 300000,
+        "rank_avg": 404000,
+        "rank_max": 534000
+    },
+    {
+        "marks": 67,
+        "percentile_min": 62.0,
+        "percentile_avg": 72.0,
+        "percentile_max": 80.3,
+        "rank_min": 287500,
+        "rank_avg": 390500,
+        "rank_max": 520500
+    },
+    {
+        "marks": 68,
+        "percentile_min": 63.0,
+        "percentile_avg": 73.0,
+        "percentile_max": 81.2,
+        "rank_min": 275000,
+        "rank_avg": 377000,
+        "rank_max": 507000
+    },
+    {
+        "marks": 69,
+        "percentile_min": 64.0,
+        "percentile_avg": 74.0,
+        "percentile_max": 82.1,
+        "rank_min": 262500,
+        "rank_avg": 363500,
+        "rank_max": 493500
+    },
+    {
+        "marks": 70,
+        "percentile_min": 65.0,
+        "percentile_avg": 75.0,
+        "percentile_max": 83.0,
+        "rank_min": 250000,
+        "rank_avg": 350000,
+        "rank_max": 480000
+    },
+    {
+        "marks": 71,
+        "percentile_min": 65.75,
+        "percentile_avg": 75.6,
+        "percentile_max": 83.45,
+        "rank_min": 243250,
+        "rank_avg": 341500,
+        "rank_max": 470000
+    },
+    {
+        "marks": 72,
+        "percentile_min": 66.5,
+        "percentile_avg": 76.2,
+        "percentile_max": 83.9,
+        "rank_min": 236500,
+        "rank_avg": 333000,
+        "rank_max": 460000
+    },
+    {
+        "marks": 73,
+        "percentile_min": 67.25,
+        "percentile_avg": 76.8,
+        "percentile_max": 84.35,
+        "rank_min": 229750,
+        "rank_avg": 324500,
+        "rank_max": 450000
+    },
+    {
+        "marks": 74,
+        "percentile_min": 68.0,
+        "percentile_avg": 77.4,
+        "percentile_max": 84.8,
+        "rank_min": 223000,
+        "rank_avg": 316000,
+        "rank_max": 440000
+    },
+    {
+        "marks": 75,
+        "percentile_min": 68.75,
+        "percentile_avg": 78.0,
+        "percentile_max": 85.25,
+        "rank_min": 216250,
+        "rank_avg": 307500,
+        "rank_max": 430000
+    },
+    {
+        "marks": 76,
+        "percentile_min": 69.5,
+        "percentile_avg": 78.6,
+        "percentile_max": 85.7,
+        "rank_min": 209500,
+        "rank_avg": 299000,
+        "rank_max": 420000
+    },
+    {
+        "marks": 77,
+        "percentile_min": 70.25,
+        "percentile_avg": 79.2,
+        "percentile_max": 86.15,
+        "rank_min": 202750,
+        "rank_avg": 290500,
+        "rank_max": 410000
+    },
+    {
+        "marks": 78,
+        "percentile_min": 71.0,
+        "percentile_avg": 79.8,
+        "percentile_max": 86.6,
+        "rank_min": 196000,
+        "rank_avg": 282000,
+        "rank_max": 400000
+    },
+    {
+        "marks": 79,
+        "percentile_min": 71.75,
+        "percentile_avg": 80.4,
+        "percentile_max": 87.05,
+        "rank_min": 189250,
+        "rank_avg": 273500,
+        "rank_max": 390000
+    },
+    {
+        "marks": 80,
+        "percentile_min": 72.5,
+        "percentile_avg": 81.0,
+        "percentile_max": 87.5,
+        "rank_min": 182500,
+        "rank_avg": 265000,
+        "rank_max": 380000
+    },
+    {
+        "marks": 81,
+        "percentile_min": 73.25,
+        "percentile_avg": 81.6,
+        "percentile_max": 87.95,
+        "rank_min": 175750,
+        "rank_avg": 256500,
+        "rank_max": 370000
+    },
+    {
+        "marks": 82,
+        "percentile_min": 74.0,
+        "percentile_avg": 82.2,
+        "percentile_max": 88.4,
+        "rank_min": 169000,
+        "rank_avg": 248000,
+        "rank_max": 360000
+    },
+    {
+        "marks": 83,
+        "percentile_min": 74.75,
+        "percentile_avg": 82.8,
+        "percentile_max": 88.85,
+        "rank_min": 162250,
+        "rank_avg": 239500,
+        "rank_max": 350000
+    },
+    {
+        "marks": 84,
+        "percentile_min": 75.5,
+        "percentile_avg": 83.4,
+        "percentile_max": 89.3,
+        "rank_min": 155500,
+        "rank_avg": 231000,
+        "rank_max": 340000
+    },
+    {
+        "marks": 85,
+        "percentile_min": 76.25,
+        "percentile_avg": 84.0,
+        "percentile_max": 89.75,
+        "rank_min": 148750,
+        "rank_avg": 222500,
+        "rank_max": 330000
+    },
+    {
+        "marks": 86,
+        "percentile_min": 77.0,
+        "percentile_avg": 84.6,
+        "percentile_max": 90.2,
+        "rank_min": 142000,
+        "rank_avg": 214000,
+        "rank_max": 320000
+    },
+    {
+        "marks": 87,
+        "percentile_min": 77.75,
+        "percentile_avg": 85.2,
+        "percentile_max": 90.65,
+        "rank_min": 135250,
+        "rank_avg": 205500,
+        "rank_max": 310000
+    },
+    {
+        "marks": 88,
+        "percentile_min": 78.5,
+        "percentile_avg": 85.8,
+        "percentile_max": 91.1,
+        "rank_min": 128500,
+        "rank_avg": 197000,
+        "rank_max": 300000
+    },
+    {
+        "marks": 89,
+        "percentile_min": 79.25,
+        "percentile_avg": 86.4,
+        "percentile_max": 91.55,
+        "rank_min": 121750,
+        "rank_avg": 188500,
+        "rank_max": 290000
+    },
+    {
+        "marks": 90,
+        "percentile_min": 80.0,
+        "percentile_avg": 87.0,
+        "percentile_max": 92.0,
+        "rank_min": 115000,
+        "rank_avg": 180000,
+        "rank_max": 280000
+    },
+    {
+        "marks": 91,
+        "percentile_min": 80.4,
+        "percentile_avg": 87.3,
+        "percentile_max": 92.175,
+        "rank_min": 112500,
+        "rank_avg": 176000,
+        "rank_max": 274500
+    },
+    {
+        "marks": 92,
+        "percentile_min": 80.8,
+        "percentile_avg": 87.6,
+        "percentile_max": 92.35,
+        "rank_min": 110000,
+        "rank_avg": 172000,
+        "rank_max": 269000
+    },
+    {
+        "marks": 93,
+        "percentile_min": 81.2,
+        "percentile_avg": 87.9,
+        "percentile_max": 92.525,
+        "rank_min": 107500,
+        "rank_avg": 168000,
+        "rank_max": 263500
+    },
+    {
+        "marks": 94,
+        "percentile_min": 81.6,
+        "percentile_avg": 88.2,
+        "percentile_max": 92.7,
+        "rank_min": 105000,
+        "rank_avg": 164000,
+        "rank_max": 258000
+    },
+    {
+        "marks": 95,
+        "percentile_min": 82.0,
+        "percentile_avg": 88.5,
+        "percentile_max": 92.875,
+        "rank_min": 102500,
+        "rank_avg": 160000,
+        "rank_max": 252500
+    },
+    {
+        "marks": 96,
+        "percentile_min": 82.4,
+        "percentile_avg": 88.8,
+        "percentile_max": 93.05,
+        "rank_min": 100000,
+        "rank_avg": 156000,
+        "rank_max": 247000
+    },
+    {
+        "marks": 97,
+        "percentile_min": 82.8,
+        "percentile_avg": 89.1,
+        "percentile_max": 93.225,
+        "rank_min": 97500,
+        "rank_avg": 152000,
+        "rank_max": 241500
+    },
+    {
+        "marks": 98,
+        "percentile_min": 83.2,
+        "percentile_avg": 89.4,
+        "percentile_max": 93.4,
+        "rank_min": 95000,
+        "rank_avg": 148000,
+        "rank_max": 236000
+    },
+    {
+        "marks": 99,
+        "percentile_min": 83.6,
+        "percentile_avg": 89.7,
+        "percentile_max": 93.575,
+        "rank_min": 92500,
+        "rank_avg": 144000,
+        "rank_max": 230500
+    },
+    {
+        "marks": 100,
+        "percentile_min": 84.0,
+        "percentile_avg": 90.0,
+        "percentile_max": 93.75,
+        "rank_min": 90000,
+        "rank_avg": 140000,
+        "rank_max": 225000
+    },
+    {
+        "marks": 101,
+        "percentile_min": 84.4,
+        "percentile_avg": 90.3,
+        "percentile_max": 93.925,
+        "rank_min": 87500,
+        "rank_avg": 136000,
+        "rank_max": 219500
+    },
+    {
+        "marks": 102,
+        "percentile_min": 84.8,
+        "percentile_avg": 90.6,
+        "percentile_max": 94.1,
+        "rank_min": 85000,
+        "rank_avg": 132000,
+        "rank_max": 214000
+    },
+    {
+        "marks": 103,
+        "percentile_min": 85.2,
+        "percentile_avg": 90.9,
+        "percentile_max": 94.275,
+        "rank_min": 82500,
+        "rank_avg": 128000,
+        "rank_max": 208500
+    },
+    {
+        "marks": 104,
+        "percentile_min": 85.6,
+        "percentile_avg": 91.2,
+        "percentile_max": 94.45,
+        "rank_min": 80000,
+        "rank_avg": 124000,
+        "rank_max": 203000
+    },
+    {
+        "marks": 105,
+        "percentile_min": 86.0,
+        "percentile_avg": 91.5,
+        "percentile_max": 94.625,
+        "rank_min": 77500,
+        "rank_avg": 120000,
+        "rank_max": 197500
+    },
+    {
+        "marks": 106,
+        "percentile_min": 86.4,
+        "percentile_avg": 91.8,
+        "percentile_max": 94.8,
+        "rank_min": 75000,
+        "rank_avg": 116000,
+        "rank_max": 192000
+    },
+    {
+        "marks": 107,
+        "percentile_min": 86.8,
+        "percentile_avg": 92.1,
+        "percentile_max": 94.975,
+        "rank_min": 72500,
+        "rank_avg": 112000,
+        "rank_max": 186500
+    },
+    {
+        "marks": 108,
+        "percentile_min": 87.2,
+        "percentile_avg": 92.4,
+        "percentile_max": 95.15,
+        "rank_min": 70000,
+        "rank_avg": 108000,
+        "rank_max": 181000
+    },
+    {
+        "marks": 109,
+        "percentile_min": 87.6,
+        "percentile_avg": 92.7,
+        "percentile_max": 95.325,
+        "rank_min": 67500,
+        "rank_avg": 104000,
+        "rank_max": 175500
+    },
+    {
+        "marks": 110,
+        "percentile_min": 88.0,
+        "percentile_avg": 93.0,
+        "percentile_max": 95.5,
+        "rank_min": 65000,
+        "rank_avg": 100000,
+        "rank_max": 170000
+    },
+    {
+        "marks": 111,
+        "percentile_min": 88.25,
+        "percentile_avg": 93.14,
+        "percentile_max": 95.6,
+        "rank_min": 63500,
+        "rank_avg": 98000,
+        "rank_max": 166500
+    },
+    {
+        "marks": 112,
+        "percentile_min": 88.5,
+        "percentile_avg": 93.28,
+        "percentile_max": 95.7,
+        "rank_min": 62000,
+        "rank_avg": 96000,
+        "rank_max": 163000
+    },
+    {
+        "marks": 113,
+        "percentile_min": 88.75,
+        "percentile_avg": 93.42,
+        "percentile_max": 95.8,
+        "rank_min": 60500,
+        "rank_avg": 94000,
+        "rank_max": 159500
+    },
+    {
+        "marks": 114,
+        "percentile_min": 89.0,
+        "percentile_avg": 93.56,
+        "percentile_max": 95.9,
+        "rank_min": 59000,
+        "rank_avg": 92000,
+        "rank_max": 156000
+    },
+    {
+        "marks": 115,
+        "percentile_min": 89.25,
+        "percentile_avg": 93.7,
+        "percentile_max": 96.0,
+        "rank_min": 57500,
+        "rank_avg": 90000,
+        "rank_max": 152500
+    },
+    {
+        "marks": 116,
+        "percentile_min": 89.5,
+        "percentile_avg": 93.84,
+        "percentile_max": 96.1,
+        "rank_min": 56000,
+        "rank_avg": 88000,
+        "rank_max": 149000
+    },
+    {
+        "marks": 117,
+        "percentile_min": 89.75,
+        "percentile_avg": 93.98,
+        "percentile_max": 96.2,
+        "rank_min": 54500,
+        "rank_avg": 86000,
+        "rank_max": 145500
+    },
+    {
+        "marks": 118,
+        "percentile_min": 90.0,
+        "percentile_avg": 94.12,
+        "percentile_max": 96.3,
+        "rank_min": 53000,
+        "rank_avg": 84000,
+        "rank_max": 142000
+    },
+    {
+        "marks": 119,
+        "percentile_min": 90.25,
+        "percentile_avg": 94.26,
+        "percentile_max": 96.4,
+        "rank_min": 51500,
+        "rank_avg": 82000,
+        "rank_max": 138500
+    },
+    {
+        "marks": 120,
+        "percentile_min": 90.5,
+        "percentile_avg": 94.4,
+        "percentile_max": 96.5,
+        "rank_min": 50000,
+        "rank_avg": 80000,
+        "rank_max": 135000
+    },
+    {
+        "marks": 121,
+        "percentile_min": 90.75,
+        "percentile_avg": 94.54,
+        "percentile_max": 96.6,
+        "rank_min": 48500,
+        "rank_avg": 78000,
+        "rank_max": 131500
+    },
+    {
+        "marks": 122,
+        "percentile_min": 91.0,
+        "percentile_avg": 94.68,
+        "percentile_max": 96.7,
+        "rank_min": 47000,
+        "rank_avg": 76000,
+        "rank_max": 128000
+    },
+    {
+        "marks": 123,
+        "percentile_min": 91.25,
+        "percentile_avg": 94.82,
+        "percentile_max": 96.8,
+        "rank_min": 45500,
+        "rank_avg": 74000,
+        "rank_max": 124500
+    },
+    {
+        "marks": 124,
+        "percentile_min": 91.5,
+        "percentile_avg": 94.96,
+        "percentile_max": 96.9,
+        "rank_min": 44000,
+        "rank_avg": 72000,
+        "rank_max": 121000
+    },
+    {
+        "marks": 125,
+        "percentile_min": 91.75,
+        "percentile_avg": 95.1,
+        "percentile_max": 97.0,
+        "rank_min": 42500,
+        "rank_avg": 70000,
+        "rank_max": 117500
+    },
+    {
+        "marks": 126,
+        "percentile_min": 92.0,
+        "percentile_avg": 95.24,
+        "percentile_max": 97.1,
+        "rank_min": 41000,
+        "rank_avg": 68000,
+        "rank_max": 114000
+    },
+    {
+        "marks": 127,
+        "percentile_min": 92.25,
+        "percentile_avg": 95.38,
+        "percentile_max": 97.2,
+        "rank_min": 39500,
+        "rank_avg": 66000,
+        "rank_max": 110500
+    },
+    {
+        "marks": 128,
+        "percentile_min": 92.5,
+        "percentile_avg": 95.52,
+        "percentile_max": 97.3,
+        "rank_min": 38000,
+        "rank_avg": 64000,
+        "rank_max": 107000
+    },
+    {
+        "marks": 129,
+        "percentile_min": 92.75,
+        "percentile_avg": 95.66,
+        "percentile_max": 97.4,
+        "rank_min": 36500,
+        "rank_avg": 62000,
+        "rank_max": 103500
+    },
+    {
+        "marks": 130,
+        "percentile_min": 93.0,
+        "percentile_avg": 95.8,
+        "percentile_max": 97.5,
+        "rank_min": 35000,
+        "rank_avg": 60000,
+        "rank_max": 100000
+    },
+    {
+        "marks": 131,
+        "percentile_min": 93.125,
+        "percentile_avg": 95.885,
+        "percentile_max": 97.555,
+        "rank_min": 34250,
+        "rank_avg": 58800,
+        "rank_max": 98250
+    },
+    {
+        "marks": 132,
+        "percentile_min": 93.25,
+        "percentile_avg": 95.97,
+        "percentile_max": 97.61,
+        "rank_min": 33500,
+        "rank_avg": 57600,
+        "rank_max": 96500
+    },
+    {
+        "marks": 133,
+        "percentile_min": 93.375,
+        "percentile_avg": 96.055,
+        "percentile_max": 97.665,
+        "rank_min": 32750,
+        "rank_avg": 56400,
+        "rank_max": 94750
+    },
+    {
+        "marks": 134,
+        "percentile_min": 93.5,
+        "percentile_avg": 96.14,
+        "percentile_max": 97.72,
+        "rank_min": 32000,
+        "rank_avg": 55200,
+        "rank_max": 93000
+    },
+    {
+        "marks": 135,
+        "percentile_min": 93.625,
+        "percentile_avg": 96.225,
+        "percentile_max": 97.775,
+        "rank_min": 31250,
+        "rank_avg": 54000,
+        "rank_max": 91250
+    },
+    {
+        "marks": 136,
+        "percentile_min": 93.75,
+        "percentile_avg": 96.31,
+        "percentile_max": 97.83,
+        "rank_min": 30500,
+        "rank_avg": 52800,
+        "rank_max": 89500
+    },
+    {
+        "marks": 137,
+        "percentile_min": 93.875,
+        "percentile_avg": 96.395,
+        "percentile_max": 97.885,
+        "rank_min": 29750,
+        "rank_avg": 51600,
+        "rank_max": 87750
+    },
+    {
+        "marks": 138,
+        "percentile_min": 94.0,
+        "percentile_avg": 96.48,
+        "percentile_max": 97.94,
+        "rank_min": 29000,
+        "rank_avg": 50400,
+        "rank_max": 86000
+    },
+    {
+        "marks": 139,
+        "percentile_min": 94.125,
+        "percentile_avg": 96.565,
+        "percentile_max": 97.995,
+        "rank_min": 28250,
+        "rank_avg": 49200,
+        "rank_max": 84250
+    },
+    {
+        "marks": 140,
+        "percentile_min": 94.25,
+        "percentile_avg": 96.65,
+        "percentile_max": 98.05,
+        "rank_min": 27500,
+        "rank_avg": 48000,
+        "rank_max": 82500
+    },
+    {
+        "marks": 141,
+        "percentile_min": 94.375,
+        "percentile_avg": 96.735,
+        "percentile_max": 98.105,
+        "rank_min": 26750,
+        "rank_avg": 46800,
+        "rank_max": 80750
+    },
+    {
+        "marks": 142,
+        "percentile_min": 94.5,
+        "percentile_avg": 96.82,
+        "percentile_max": 98.16,
+        "rank_min": 26000,
+        "rank_avg": 45600,
+        "rank_max": 79000
+    },
+    {
+        "marks": 143,
+        "percentile_min": 94.625,
+        "percentile_avg": 96.905,
+        "percentile_max": 98.215,
+        "rank_min": 25250,
+        "rank_avg": 44400,
+        "rank_max": 77250
+    },
+    {
+        "marks": 144,
+        "percentile_min": 94.75,
+        "percentile_avg": 96.99,
+        "percentile_max": 98.27,
+        "rank_min": 24500,
+        "rank_avg": 43200,
+        "rank_max": 75500
+    },
+    {
+        "marks": 145,
+        "percentile_min": 94.875,
+        "percentile_avg": 97.075,
+        "percentile_max": 98.325,
+        "rank_min": 23750,
+        "rank_avg": 42000,
+        "rank_max": 73750
+    },
+    {
+        "marks": 146,
+        "percentile_min": 95.0,
+        "percentile_avg": 97.16,
+        "percentile_max": 98.38,
+        "rank_min": 23000,
+        "rank_avg": 40800,
+        "rank_max": 72000
+    },
+    {
+        "marks": 147,
+        "percentile_min": 95.125,
+        "percentile_avg": 97.245,
+        "percentile_max": 98.435,
+        "rank_min": 22250,
+        "rank_avg": 39600,
+        "rank_max": 70250
+    },
+    {
+        "marks": 148,
+        "percentile_min": 95.25,
+        "percentile_avg": 97.33,
+        "percentile_max": 98.49,
+        "rank_min": 21500,
+        "rank_avg": 38400,
+        "rank_max": 68500
+    },
+    {
+        "marks": 149,
+        "percentile_min": 95.375,
+        "percentile_avg": 97.415,
+        "percentile_max": 98.545,
+        "rank_min": 20750,
+        "rank_avg": 37200,
+        "rank_max": 66750
+    },
+    {
+        "marks": 150,
+        "percentile_min": 95.5,
+        "percentile_avg": 97.5,
+        "percentile_max": 98.6,
+        "rank_min": 20000,
+        "rank_avg": 36000,
+        "rank_max": 65000
+    },
+    {
+        "marks": 151,
+        "percentile_min": 95.6,
+        "percentile_avg": 97.555,
+        "percentile_max": 98.63,
+        "rank_min": 19550,
+        "rank_avg": 35200,
+        "rank_max": 63550
+    },
+    {
+        "marks": 152,
+        "percentile_min": 95.7,
+        "percentile_avg": 97.61,
+        "percentile_max": 98.66,
+        "rank_min": 19100,
+        "rank_avg": 34400,
+        "rank_max": 62100
+    },
+    {
+        "marks": 153,
+        "percentile_min": 95.8,
+        "percentile_avg": 97.665,
+        "percentile_max": 98.69,
+        "rank_min": 18650,
+        "rank_avg": 33600,
+        "rank_max": 60650
+    },
+    {
+        "marks": 154,
+        "percentile_min": 95.9,
+        "percentile_avg": 97.72,
+        "percentile_max": 98.72,
+        "rank_min": 18200,
+        "rank_avg": 32800,
+        "rank_max": 59200
+    },
+    {
+        "marks": 155,
+        "percentile_min": 96.0,
+        "percentile_avg": 97.775,
+        "percentile_max": 98.75,
+        "rank_min": 17750,
+        "rank_avg": 32000,
+        "rank_max": 57750
+    },
+    {
+        "marks": 156,
+        "percentile_min": 96.1,
+        "percentile_avg": 97.83,
+        "percentile_max": 98.78,
+        "rank_min": 17300,
+        "rank_avg": 31200,
+        "rank_max": 56300
+    },
+    {
+        "marks": 157,
+        "percentile_min": 96.2,
+        "percentile_avg": 97.885,
+        "percentile_max": 98.81,
+        "rank_min": 16850,
+        "rank_avg": 30400,
+        "rank_max": 54850
+    },
+    {
+        "marks": 158,
+        "percentile_min": 96.3,
+        "percentile_avg": 97.94,
+        "percentile_max": 98.84,
+        "rank_min": 16400,
+        "rank_avg": 29600,
+        "rank_max": 53400
+    },
+    {
+        "marks": 159,
+        "percentile_min": 96.4,
+        "percentile_avg": 97.995,
+        "percentile_max": 98.87,
+        "rank_min": 15950,
+        "rank_avg": 28800,
+        "rank_max": 51950
+    },
+    {
+        "marks": 160,
+        "percentile_min": 96.5,
+        "percentile_avg": 98.05,
+        "percentile_max": 98.9,
+        "rank_min": 15500,
+        "rank_avg": 28000,
+        "rank_max": 50500
+    },
+    {
+        "marks": 161,
+        "percentile_min": 96.6,
+        "percentile_avg": 98.105,
+        "percentile_max": 98.93,
+        "rank_min": 15050,
+        "rank_avg": 27200,
+        "rank_max": 49050
+    },
+    {
+        "marks": 162,
+        "percentile_min": 96.7,
+        "percentile_avg": 98.16,
+        "percentile_max": 98.96,
+        "rank_min": 14600,
+        "rank_avg": 26400,
+        "rank_max": 47600
+    },
+    {
+        "marks": 163,
+        "percentile_min": 96.8,
+        "percentile_avg": 98.215,
+        "percentile_max": 98.99,
+        "rank_min": 14150,
+        "rank_avg": 25600,
+        "rank_max": 46150
+    },
+    {
+        "marks": 164,
+        "percentile_min": 96.9,
+        "percentile_avg": 98.27,
+        "percentile_max": 99.02,
+        "rank_min": 13700,
+        "rank_avg": 24800,
+        "rank_max": 44700
+    },
+    {
+        "marks": 165,
+        "percentile_min": 97.0,
+        "percentile_avg": 98.325,
+        "percentile_max": 99.05,
+        "rank_min": 13250,
+        "rank_avg": 24000,
+        "rank_max": 43250
+    },
+    {
+        "marks": 166,
+        "percentile_min": 97.1,
+        "percentile_avg": 98.38,
+        "percentile_max": 99.08,
+        "rank_min": 12800,
+        "rank_avg": 23200,
+        "rank_max": 41800
+    },
+    {
+        "marks": 167,
+        "percentile_min": 97.2,
+        "percentile_avg": 98.435,
+        "percentile_max": 99.11,
+        "rank_min": 12350,
+        "rank_avg": 22400,
+        "rank_max": 40350
+    },
+    {
+        "marks": 168,
+        "percentile_min": 97.3,
+        "percentile_avg": 98.49,
+        "percentile_max": 99.14,
+        "rank_min": 11900,
+        "rank_avg": 21600,
+        "rank_max": 38900
+    },
+    {
+        "marks": 169,
+        "percentile_min": 97.4,
+        "percentile_avg": 98.545,
+        "percentile_max": 99.17,
+        "rank_min": 11450,
+        "rank_avg": 20800,
+        "rank_max": 37450
+    },
+    {
+        "marks": 170,
+        "percentile_min": 97.5,
+        "percentile_avg": 98.6,
+        "percentile_max": 99.2,
+        "rank_min": 11000,
+        "rank_avg": 20000,
+        "rank_max": 36000
+    },
+    {
+        "marks": 171,
+        "percentile_min": 97.555,
+        "percentile_avg": 98.635,
+        "percentile_max": 99.22,
+        "rank_min": 10740,
+        "rank_avg": 19500,
+        "rank_max": 35200
+    },
+    {
+        "marks": 172,
+        "percentile_min": 97.61,
+        "percentile_avg": 98.67,
+        "percentile_max": 99.24,
+        "rank_min": 10480,
+        "rank_avg": 19000,
+        "rank_max": 34400
+    },
+    {
+        "marks": 173,
+        "percentile_min": 97.665,
+        "percentile_avg": 98.705,
+        "percentile_max": 99.26,
+        "rank_min": 10220,
+        "rank_avg": 18500,
+        "rank_max": 33600
+    },
+    {
+        "marks": 174,
+        "percentile_min": 97.72,
+        "percentile_avg": 98.74,
+        "percentile_max": 99.28,
+        "rank_min": 9960,
+        "rank_avg": 18000,
+        "rank_max": 32800
+    },
+    {
+        "marks": 175,
+        "percentile_min": 97.775,
+        "percentile_avg": 98.775,
+        "percentile_max": 99.3,
+        "rank_min": 9700,
+        "rank_avg": 17500,
+        "rank_max": 32000
+    },
+    {
+        "marks": 176,
+        "percentile_min": 97.83,
+        "percentile_avg": 98.81,
+        "percentile_max": 99.32,
+        "rank_min": 9440,
+        "rank_avg": 17000,
+        "rank_max": 31200
+    },
+    {
+        "marks": 177,
+        "percentile_min": 97.885,
+        "percentile_avg": 98.845,
+        "percentile_max": 99.34,
+        "rank_min": 9180,
+        "rank_avg": 16500,
+        "rank_max": 30400
+    },
+    {
+        "marks": 178,
+        "percentile_min": 97.94,
+        "percentile_avg": 98.88,
+        "percentile_max": 99.36,
+        "rank_min": 8920,
+        "rank_avg": 16000,
+        "rank_max": 29600
+    },
+    {
+        "marks": 179,
+        "percentile_min": 97.995,
+        "percentile_avg": 98.915,
+        "percentile_max": 99.38,
+        "rank_min": 8660,
+        "rank_avg": 15500,
+        "rank_max": 28800
+    },
+    {
+        "marks": 180,
+        "percentile_min": 98.05,
+        "percentile_avg": 98.95,
+        "percentile_max": 99.4,
+        "rank_min": 8400,
+        "rank_avg": 15000,
+        "rank_max": 28000
+    },
+    {
+        "marks": 181,
+        "percentile_min": 98.105,
+        "percentile_avg": 98.985,
+        "percentile_max": 99.42,
+        "rank_min": 8140,
+        "rank_avg": 14500,
+        "rank_max": 27200
+    },
+    {
+        "marks": 182,
+        "percentile_min": 98.16,
+        "percentile_avg": 99.02,
+        "percentile_max": 99.44,
+        "rank_min": 7880,
+        "rank_avg": 14000,
+        "rank_max": 26400
+    },
+    {
+        "marks": 183,
+        "percentile_min": 98.215,
+        "percentile_avg": 99.055,
+        "percentile_max": 99.46,
+        "rank_min": 7620,
+        "rank_avg": 13500,
+        "rank_max": 25600
+    },
+    {
+        "marks": 184,
+        "percentile_min": 98.27,
+        "percentile_avg": 99.09,
+        "percentile_max": 99.48,
+        "rank_min": 7360,
+        "rank_avg": 13000,
+        "rank_max": 24800
+    },
+    {
+        "marks": 185,
+        "percentile_min": 98.325,
+        "percentile_avg": 99.125,
+        "percentile_max": 99.5,
+        "rank_min": 7100,
+        "rank_avg": 12500,
+        "rank_max": 24000
+    },
+    {
+        "marks": 186,
+        "percentile_min": 98.38,
+        "percentile_avg": 99.16,
+        "percentile_max": 99.52,
+        "rank_min": 6840,
+        "rank_avg": 12000,
+        "rank_max": 23200
+    },
+    {
+        "marks": 187,
+        "percentile_min": 98.435,
+        "percentile_avg": 99.195,
+        "percentile_max": 99.54,
+        "rank_min": 6580,
+        "rank_avg": 11500,
+        "rank_max": 22400
+    },
+    {
+        "marks": 188,
+        "percentile_min": 98.49,
+        "percentile_avg": 99.23,
+        "percentile_max": 99.56,
+        "rank_min": 6320,
+        "rank_avg": 11000,
+        "rank_max": 21600
+    },
+    {
+        "marks": 189,
+        "percentile_min": 98.545,
+        "percentile_avg": 99.265,
+        "percentile_max": 99.58,
+        "rank_min": 6060,
+        "rank_avg": 10500,
+        "rank_max": 20800
+    },
+    {
+        "marks": 190,
+        "percentile_min": 98.6,
+        "percentile_avg": 99.3,
+        "percentile_max": 99.6,
+        "rank_min": 5800,
+        "rank_avg": 10000,
+        "rank_max": 20000
+    },
+    {
+        "marks": 191,
+        "percentile_min": 98.635,
+        "percentile_avg": 99.32,
+        "percentile_max": 99.611,
+        "rank_min": 5640,
+        "rank_avg": 9715,
+        "rank_max": 19500
+    },
+    {
+        "marks": 192,
+        "percentile_min": 98.67,
+        "percentile_avg": 99.34,
+        "percentile_max": 99.622,
+        "rank_min": 5480,
+        "rank_avg": 9430,
+        "rank_max": 19000
+    },
+    {
+        "marks": 193,
+        "percentile_min": 98.705,
+        "percentile_avg": 99.36,
+        "percentile_max": 99.633,
+        "rank_min": 5320,
+        "rank_avg": 9145,
+        "rank_max": 18500
+    },
+    {
+        "marks": 194,
+        "percentile_min": 98.74,
+        "percentile_avg": 99.38,
+        "percentile_max": 99.644,
+        "rank_min": 5160,
+        "rank_avg": 8860,
+        "rank_max": 18000
+    },
+    {
+        "marks": 195,
+        "percentile_min": 98.775,
+        "percentile_avg": 99.4,
+        "percentile_max": 99.655,
+        "rank_min": 5000,
+        "rank_avg": 8575,
+        "rank_max": 17500
+    },
+    {
+        "marks": 196,
+        "percentile_min": 98.81,
+        "percentile_avg": 99.42,
+        "percentile_max": 99.666,
+        "rank_min": 4840,
+        "rank_avg": 8290,
+        "rank_max": 17000
+    },
+    {
+        "marks": 197,
+        "percentile_min": 98.845,
+        "percentile_avg": 99.44,
+        "percentile_max": 99.677,
+        "rank_min": 4680,
+        "rank_avg": 8005,
+        "rank_max": 16500
+    },
+    {
+        "marks": 198,
+        "percentile_min": 98.88,
+        "percentile_avg": 99.46,
+        "percentile_max": 99.688,
+        "rank_min": 4520,
+        "rank_avg": 7720,
+        "rank_max": 16000
+    },
+    {
+        "marks": 199,
+        "percentile_min": 98.915,
+        "percentile_avg": 99.48,
+        "percentile_max": 99.699,
+        "rank_min": 4360,
+        "rank_avg": 7435,
+        "rank_max": 15500
+    },
+    {
+        "marks": 200,
+        "percentile_min": 98.95,
+        "percentile_avg": 99.5,
+        "percentile_max": 99.71,
+        "rank_min": 4200,
+        "rank_avg": 7150,
+        "rank_max": 15000
+    },
+    {
+        "marks": 201,
+        "percentile_min": 98.985,
+        "percentile_avg": 99.52,
+        "percentile_max": 99.721,
+        "rank_min": 4040,
+        "rank_avg": 6865,
+        "rank_max": 14500
+    },
+    {
+        "marks": 202,
+        "percentile_min": 99.02,
+        "percentile_avg": 99.54,
+        "percentile_max": 99.732,
+        "rank_min": 3880,
+        "rank_avg": 6580,
+        "rank_max": 14000
+    },
+    {
+        "marks": 203,
+        "percentile_min": 99.055,
+        "percentile_avg": 99.56,
+        "percentile_max": 99.743,
+        "rank_min": 3720,
+        "rank_avg": 6295,
+        "rank_max": 13500
+    },
+    {
+        "marks": 204,
+        "percentile_min": 99.09,
+        "percentile_avg": 99.58,
+        "percentile_max": 99.754,
+        "rank_min": 3560,
+        "rank_avg": 6010,
+        "rank_max": 13000
+    },
+    {
+        "marks": 205,
+        "percentile_min": 99.125,
+        "percentile_avg": 99.6,
+        "percentile_max": 99.765,
+        "rank_min": 3400,
+        "rank_avg": 5725,
+        "rank_max": 12500
+    },
+    {
+        "marks": 206,
+        "percentile_min": 99.16,
+        "percentile_avg": 99.62,
+        "percentile_max": 99.776,
+        "rank_min": 3240,
+        "rank_avg": 5440,
+        "rank_max": 12000
+    },
+    {
+        "marks": 207,
+        "percentile_min": 99.195,
+        "percentile_avg": 99.64,
+        "percentile_max": 99.787,
+        "rank_min": 3080,
+        "rank_avg": 5155,
+        "rank_max": 11500
+    },
+    {
+        "marks": 208,
+        "percentile_min": 99.23,
+        "percentile_avg": 99.66,
+        "percentile_max": 99.798,
+        "rank_min": 2920,
+        "rank_avg": 4870,
+        "rank_max": 11000
+    },
+    {
+        "marks": 209,
+        "percentile_min": 99.265,
+        "percentile_avg": 99.68,
+        "percentile_max": 99.809,
+        "rank_min": 2760,
+        "rank_avg": 4585,
+        "rank_max": 10500
+    },
+    {
+        "marks": 210,
+        "percentile_min": 99.3,
+        "percentile_avg": 99.7,
+        "percentile_max": 99.82,
+        "rank_min": 2600,
+        "rank_avg": 4300,
+        "rank_max": 10000
+    },
+    {
+        "marks": 211,
+        "percentile_min": 99.32,
+        "percentile_avg": 99.709,
+        "percentile_max": 99.8255,
+        "rank_min": 2520,
+        "rank_avg": 4170,
+        "rank_max": 9715
+    },
+    {
+        "marks": 212,
+        "percentile_min": 99.34,
+        "percentile_avg": 99.718,
+        "percentile_max": 99.831,
+        "rank_min": 2440,
+        "rank_avg": 4040,
+        "rank_max": 9430
+    },
+    {
+        "marks": 213,
+        "percentile_min": 99.36,
+        "percentile_avg": 99.727,
+        "percentile_max": 99.8365,
+        "rank_min": 2360,
+        "rank_avg": 3910,
+        "rank_max": 9145
+    },
+    {
+        "marks": 214,
+        "percentile_min": 99.38,
+        "percentile_avg": 99.736,
+        "percentile_max": 99.842,
+        "rank_min": 2280,
+        "rank_avg": 3780,
+        "rank_max": 8860
+    },
+    {
+        "marks": 215,
+        "percentile_min": 99.4,
+        "percentile_avg": 99.745,
+        "percentile_max": 99.8475,
+        "rank_min": 2200,
+        "rank_avg": 3650,
+        "rank_max": 8575
+    },
+    {
+        "marks": 216,
+        "percentile_min": 99.42,
+        "percentile_avg": 99.754,
+        "percentile_max": 99.853,
+        "rank_min": 2120,
+        "rank_avg": 3520,
+        "rank_max": 8290
+    },
+    {
+        "marks": 217,
+        "percentile_min": 99.44,
+        "percentile_avg": 99.763,
+        "percentile_max": 99.8585,
+        "rank_min": 2040,
+        "rank_avg": 3390,
+        "rank_max": 8005
+    },
+    {
+        "marks": 218,
+        "percentile_min": 99.46,
+        "percentile_avg": 99.772,
+        "percentile_max": 99.864,
+        "rank_min": 1960,
+        "rank_avg": 3260,
+        "rank_max": 7720
+    },
+    {
+        "marks": 219,
+        "percentile_min": 99.48,
+        "percentile_avg": 99.781,
+        "percentile_max": 99.8695,
+        "rank_min": 1880,
+        "rank_avg": 3130,
+        "rank_max": 7435
+    },
+    {
+        "marks": 220,
+        "percentile_min": 99.5,
+        "percentile_avg": 99.79,
+        "percentile_max": 99.875,
+        "rank_min": 1800,
+        "rank_avg": 3000,
+        "rank_max": 7150
+    },
+    {
+        "marks": 221,
+        "percentile_min": 99.52,
+        "percentile_avg": 99.799,
+        "percentile_max": 99.8805,
+        "rank_min": 1720,
+        "rank_avg": 2870,
+        "rank_max": 6865
+    },
+    {
+        "marks": 222,
+        "percentile_min": 99.54,
+        "percentile_avg": 99.808,
+        "percentile_max": 99.886,
+        "rank_min": 1640,
+        "rank_avg": 2740,
+        "rank_max": 6580
+    },
+    {
+        "marks": 223,
+        "percentile_min": 99.56,
+        "percentile_avg": 99.817,
+        "percentile_max": 99.8915,
+        "rank_min": 1560,
+        "rank_avg": 2610,
+        "rank_max": 6295
+    },
+    {
+        "marks": 224,
+        "percentile_min": 99.58,
+        "percentile_avg": 99.826,
+        "percentile_max": 99.897,
+        "rank_min": 1480,
+        "rank_avg": 2480,
+        "rank_max": 6010
+    },
+    {
+        "marks": 225,
+        "percentile_min": 99.6,
+        "percentile_avg": 99.835,
+        "percentile_max": 99.9025,
+        "rank_min": 1400,
+        "rank_avg": 2350,
+        "rank_max": 5725
+    },
+    {
+        "marks": 226,
+        "percentile_min": 99.62,
+        "percentile_avg": 99.844,
+        "percentile_max": 99.908,
+        "rank_min": 1320,
+        "rank_avg": 2220,
+        "rank_max": 5440
+    },
+    {
+        "marks": 227,
+        "percentile_min": 99.64,
+        "percentile_avg": 99.853,
+        "percentile_max": 99.9135,
+        "rank_min": 1240,
+        "rank_avg": 2090,
+        "rank_max": 5155
+    },
+    {
+        "marks": 228,
+        "percentile_min": 99.66,
+        "percentile_avg": 99.862,
+        "percentile_max": 99.919,
+        "rank_min": 1160,
+        "rank_avg": 1960,
+        "rank_max": 4870
+    },
+    {
+        "marks": 229,
+        "percentile_min": 99.68,
+        "percentile_avg": 99.871,
+        "percentile_max": 99.9245,
+        "rank_min": 1080,
+        "rank_avg": 1830,
+        "rank_max": 4585
+    },
+    {
+        "marks": 230,
+        "percentile_min": 99.7,
+        "percentile_avg": 99.88,
+        "percentile_max": 99.93,
+        "rank_min": 1000,
+        "rank_avg": 1700,
+        "rank_max": 4300
+    },
+    {
+        "marks": 231,
+        "percentile_min": 99.709,
+        "percentile_avg": 99.8835,
+        "percentile_max": 99.9325,
+        "rank_min": 965,
+        "rank_avg": 1650,
+        "rank_max": 4170
+    },
+    {
+        "marks": 232,
+        "percentile_min": 99.718,
+        "percentile_avg": 99.887,
+        "percentile_max": 99.935,
+        "rank_min": 930,
+        "rank_avg": 1600,
+        "rank_max": 4040
+    },
+    {
+        "marks": 233,
+        "percentile_min": 99.727,
+        "percentile_avg": 99.8905,
+        "percentile_max": 99.9375,
+        "rank_min": 895,
+        "rank_avg": 1550,
+        "rank_max": 3910
+    },
+    {
+        "marks": 234,
+        "percentile_min": 99.736,
+        "percentile_avg": 99.894,
+        "percentile_max": 99.94,
+        "rank_min": 860,
+        "rank_avg": 1500,
+        "rank_max": 3780
+    },
+    {
+        "marks": 235,
+        "percentile_min": 99.745,
+        "percentile_avg": 99.8975,
+        "percentile_max": 99.9425,
+        "rank_min": 825,
+        "rank_avg": 1450,
+        "rank_max": 3650
+    },
+    {
+        "marks": 236,
+        "percentile_min": 99.754,
+        "percentile_avg": 99.901,
+        "percentile_max": 99.945,
+        "rank_min": 790,
+        "rank_avg": 1400,
+        "rank_max": 3520
+    },
+    {
+        "marks": 237,
+        "percentile_min": 99.763,
+        "percentile_avg": 99.9045,
+        "percentile_max": 99.9475,
+        "rank_min": 755,
+        "rank_avg": 1350,
+        "rank_max": 3390
+    },
+    {
+        "marks": 238,
+        "percentile_min": 99.772,
+        "percentile_avg": 99.908,
+        "percentile_max": 99.95,
+        "rank_min": 720,
+        "rank_avg": 1300,
+        "rank_max": 3260
+    },
+    {
+        "marks": 239,
+        "percentile_min": 99.781,
+        "percentile_avg": 99.9115,
+        "percentile_max": 99.9525,
+        "rank_min": 685,
+        "rank_avg": 1250,
+        "rank_max": 3130
+    },
+    {
+        "marks": 240,
+        "percentile_min": 99.79,
+        "percentile_avg": 99.915,
+        "percentile_max": 99.955,
+        "rank_min": 650,
+        "rank_avg": 1200,
+        "rank_max": 3000
+    },
+    {
+        "marks": 241,
+        "percentile_min": 99.799,
+        "percentile_avg": 99.9185,
+        "percentile_max": 99.9575,
+        "rank_min": 615,
+        "rank_avg": 1150,
+        "rank_max": 2870
+    },
+    {
+        "marks": 242,
+        "percentile_min": 99.808,
+        "percentile_avg": 99.922,
+        "percentile_max": 99.96,
+        "rank_min": 580,
+        "rank_avg": 1100,
+        "rank_max": 2740
+    },
+    {
+        "marks": 243,
+        "percentile_min": 99.817,
+        "percentile_avg": 99.9255,
+        "percentile_max": 99.9625,
+        "rank_min": 545,
+        "rank_avg": 1050,
+        "rank_max": 2610
+    },
+    {
+        "marks": 244,
+        "percentile_min": 99.826,
+        "percentile_avg": 99.929,
+        "percentile_max": 99.965,
+        "rank_min": 510,
+        "rank_avg": 1000,
+        "rank_max": 2480
+    },
+    {
+        "marks": 245,
+        "percentile_min": 99.835,
+        "percentile_avg": 99.9325,
+        "percentile_max": 99.9675,
+        "rank_min": 475,
+        "rank_avg": 950,
+        "rank_max": 2350
+    },
+    {
+        "marks": 246,
+        "percentile_min": 99.844,
+        "percentile_avg": 99.936,
+        "percentile_max": 99.97,
+        "rank_min": 440,
+        "rank_avg": 900,
+        "rank_max": 2220
+    },
+    {
+        "marks": 247,
+        "percentile_min": 99.853,
+        "percentile_avg": 99.9395,
+        "percentile_max": 99.9725,
+        "rank_min": 405,
+        "rank_avg": 850,
+        "rank_max": 2090
+    },
+    {
+        "marks": 248,
+        "percentile_min": 99.862,
+        "percentile_avg": 99.943,
+        "percentile_max": 99.975,
+        "rank_min": 370,
+        "rank_avg": 800,
+        "rank_max": 1960
+    },
+    {
+        "marks": 249,
+        "percentile_min": 99.871,
+        "percentile_avg": 99.9465,
+        "percentile_max": 99.9775,
+        "rank_min": 335,
+        "rank_avg": 750,
+        "rank_max": 1830
+    },
+    {
+        "marks": 250,
+        "percentile_min": 99.88,
+        "percentile_avg": 99.95,
+        "percentile_max": 99.98,
+        "rank_min": 300,
+        "rank_avg": 700,
+        "rank_max": 1700
+    },
+    {
+        "marks": 251,
+        "percentile_min": 99.8845,
+        "percentile_avg": 99.952,
+        "percentile_max": 99.9808,
+        "rank_min": 288,
+        "rank_avg": 672,
+        "rank_max": 1635
+    },
+    {
+        "marks": 252,
+        "percentile_min": 99.889,
+        "percentile_avg": 99.954,
+        "percentile_max": 99.9816,
+        "rank_min": 276,
+        "rank_avg": 644,
+        "rank_max": 1570
+    },
+    {
+        "marks": 253,
+        "percentile_min": 99.8935,
+        "percentile_avg": 99.956,
+        "percentile_max": 99.9824,
+        "rank_min": 264,
+        "rank_avg": 616,
+        "rank_max": 1505
+    },
+    {
+        "marks": 254,
+        "percentile_min": 99.898,
+        "percentile_avg": 99.958,
+        "percentile_max": 99.9832,
+        "rank_min": 252,
+        "rank_avg": 588,
+        "rank_max": 1440
+    },
+    {
+        "marks": 255,
+        "percentile_min": 99.9025,
+        "percentile_avg": 99.96,
+        "percentile_max": 99.984,
+        "rank_min": 240,
+        "rank_avg": 560,
+        "rank_max": 1375
+    },
+    {
+        "marks": 256,
+        "percentile_min": 99.907,
+        "percentile_avg": 99.962,
+        "percentile_max": 99.9848,
+        "rank_min": 228,
+        "rank_avg": 532,
+        "rank_max": 1310
+    },
+    {
+        "marks": 257,
+        "percentile_min": 99.9115,
+        "percentile_avg": 99.964,
+        "percentile_max": 99.9856,
+        "rank_min": 216,
+        "rank_avg": 504,
+        "rank_max": 1245
+    },
+    {
+        "marks": 258,
+        "percentile_min": 99.916,
+        "percentile_avg": 99.966,
+        "percentile_max": 99.9864,
+        "rank_min": 204,
+        "rank_avg": 476,
+        "rank_max": 1180
+    },
+    {
+        "marks": 259,
+        "percentile_min": 99.9205,
+        "percentile_avg": 99.968,
+        "percentile_max": 99.9872,
+        "rank_min": 192,
+        "rank_avg": 448,
+        "rank_max": 1115
+    },
+    {
+        "marks": 260,
+        "percentile_min": 99.925,
+        "percentile_avg": 99.97,
+        "percentile_max": 99.988,
+        "rank_min": 180,
+        "rank_avg": 420,
+        "rank_max": 1050
+    },
+    {
+        "marks": 261,
+        "percentile_min": 99.9295,
+        "percentile_avg": 99.972,
+        "percentile_max": 99.9888,
+        "rank_min": 168,
+        "rank_avg": 392,
+        "rank_max": 985
+    },
+    {
+        "marks": 262,
+        "percentile_min": 99.934,
+        "percentile_avg": 99.974,
+        "percentile_max": 99.9896,
+        "rank_min": 156,
+        "rank_avg": 364,
+        "rank_max": 920
+    },
+    {
+        "marks": 263,
+        "percentile_min": 99.9385,
+        "percentile_avg": 99.976,
+        "percentile_max": 99.9904,
+        "rank_min": 144,
+        "rank_avg": 336,
+        "rank_max": 855
+    },
+    {
+        "marks": 264,
+        "percentile_min": 99.943,
+        "percentile_avg": 99.978,
+        "percentile_max": 99.9912,
+        "rank_min": 132,
+        "rank_avg": 308,
+        "rank_max": 790
+    },
+    {
+        "marks": 265,
+        "percentile_min": 99.9475,
+        "percentile_avg": 99.98,
+        "percentile_max": 99.992,
+        "rank_min": 120,
+        "rank_avg": 280,
+        "rank_max": 725
+    },
+    {
+        "marks": 266,
+        "percentile_min": 99.952,
+        "percentile_avg": 99.982,
+        "percentile_max": 99.9928,
+        "rank_min": 108,
+        "rank_avg": 252,
+        "rank_max": 660
+    },
+    {
+        "marks": 267,
+        "percentile_min": 99.9565,
+        "percentile_avg": 99.984,
+        "percentile_max": 99.9936,
+        "rank_min": 96,
+        "rank_avg": 224,
+        "rank_max": 595
+    },
+    {
+        "marks": 268,
+        "percentile_min": 99.961,
+        "percentile_avg": 99.986,
+        "percentile_max": 99.9944,
+        "rank_min": 84,
+        "rank_avg": 196,
+        "rank_max": 530
+    },
+    {
+        "marks": 269,
+        "percentile_min": 99.9655,
+        "percentile_avg": 99.988,
+        "percentile_max": 99.9952,
+        "rank_min": 72,
+        "rank_avg": 168,
+        "rank_max": 465
+    },
+    {
+        "marks": 270,
+        "percentile_min": 99.97,
+        "percentile_avg": 99.99,
+        "percentile_max": 99.996,
+        "rank_min": 60,
+        "rank_avg": 140,
+        "rank_max": 400
+    },
+    {
+        "marks": 271,
+        "percentile_min": 99.9712,
+        "percentile_avg": 99.9904,
+        "percentile_max": 99.9962,
+        "rank_min": 57,
+        "rank_avg": 134,
+        "rank_max": 384
+    },
+    {
+        "marks": 272,
+        "percentile_min": 99.9725,
+        "percentile_avg": 99.9909,
+        "percentile_max": 99.9964,
+        "rank_min": 54,
+        "rank_avg": 128,
+        "rank_max": 367
+    },
+    {
+        "marks": 273,
+        "percentile_min": 99.9737,
+        "percentile_avg": 99.9913,
+        "percentile_max": 99.9966,
+        "rank_min": 52,
+        "rank_avg": 121,
+        "rank_max": 350
+    },
+    {
+        "marks": 274,
+        "percentile_min": 99.975,
+        "percentile_avg": 99.9918,
+        "percentile_max": 99.9968,
+        "rank_min": 49,
+        "rank_avg": 115,
+        "rank_max": 334
+    },
+    {
+        "marks": 275,
+        "percentile_min": 99.9762,
+        "percentile_avg": 99.9922,
+        "percentile_max": 99.997,
+        "rank_min": 46,
+        "rank_avg": 109,
+        "rank_max": 318
+    },
+    {
+        "marks": 276,
+        "percentile_min": 99.9775,
+        "percentile_avg": 99.9927,
+        "percentile_max": 99.9972,
+        "rank_min": 44,
+        "rank_avg": 102,
+        "rank_max": 301
+    },
+    {
+        "marks": 277,
+        "percentile_min": 99.9788,
+        "percentile_avg": 99.9931,
+        "percentile_max": 99.9974,
+        "rank_min": 41,
+        "rank_avg": 96,
+        "rank_max": 284
+    },
+    {
+        "marks": 278,
+        "percentile_min": 99.98,
+        "percentile_avg": 99.9936,
+        "percentile_max": 99.9976,
+        "rank_min": 38,
+        "rank_avg": 90,
+        "rank_max": 268
+    },
+    {
+        "marks": 279,
+        "percentile_min": 99.9813,
+        "percentile_avg": 99.9941,
+        "percentile_max": 99.9978,
+        "rank_min": 35,
+        "rank_avg": 84,
+        "rank_max": 252
+    },
+    {
+        "marks": 280,
+        "percentile_min": 99.9825,
+        "percentile_avg": 99.9945,
+        "percentile_max": 99.998,
+        "rank_min": 32,
+        "rank_avg": 78,
+        "rank_max": 235
+    },
+    {
+        "marks": 281,
+        "percentile_min": 99.9838,
+        "percentile_avg": 99.9949,
+        "percentile_max": 99.9981,
+        "rank_min": 30,
+        "rank_avg": 71,
+        "rank_max": 218
+    },
+    {
+        "marks": 282,
+        "percentile_min": 99.985,
+        "percentile_avg": 99.9954,
+        "percentile_max": 99.9983,
+        "rank_min": 27,
+        "rank_avg": 65,
+        "rank_max": 202
+    },
+    {
+        "marks": 283,
+        "percentile_min": 99.9862,
+        "percentile_avg": 99.9958,
+        "percentile_max": 99.9985,
+        "rank_min": 24,
+        "rank_avg": 59,
+        "rank_max": 186
+    },
+    {
+        "marks": 284,
+        "percentile_min": 99.9875,
+        "percentile_avg": 99.9963,
+        "percentile_max": 99.9987,
+        "rank_min": 22,
+        "rank_avg": 52,
+        "rank_max": 169
+    },
+    {
+        "marks": 285,
+        "percentile_min": 99.9888,
+        "percentile_avg": 99.9967,
+        "percentile_max": 99.9989,
+        "rank_min": 19,
+        "rank_avg": 46,
+        "rank_max": 152
+    },
+    {
+        "marks": 286,
+        "percentile_min": 99.99,
+        "percentile_avg": 99.9972,
+        "percentile_max": 99.9991,
+        "rank_min": 16,
+        "rank_avg": 40,
+        "rank_max": 136
+    },
+    {
+        "marks": 287,
+        "percentile_min": 99.9913,
+        "percentile_avg": 99.9976,
+        "percentile_max": 99.9993,
+        "rank_min": 13,
+        "rank_avg": 34,
+        "rank_max": 120
+    },
+    {
+        "marks": 288,
+        "percentile_min": 99.9925,
+        "percentile_avg": 99.9981,
+        "percentile_max": 99.9995,
+        "rank_min": 10,
+        "rank_avg": 28,
+        "rank_max": 103
+    },
+    {
+        "marks": 289,
+        "percentile_min": 99.9938,
+        "percentile_avg": 99.9985,
+        "percentile_max": 99.9997,
+        "rank_min": 8,
+        "rank_avg": 21,
+        "rank_max": 86
+    },
+    {
+        "marks": 290,
+        "percentile_min": 99.995,
+        "percentile_avg": 99.999,
+        "percentile_max": 99.9999,
+        "rank_min": 5,
+        "rank_avg": 15,
+        "rank_max": 70
+    },
+    {
+        "marks": 291,
+        "percentile_min": 99.9955,
+        "percentile_avg": 99.9991,
+        "percentile_max": 99.9999,
+        "rank_min": 5,
+        "rank_avg": 14,
+        "rank_max": 64
+    },
+    {
+        "marks": 292,
+        "percentile_min": 99.996,
+        "percentile_avg": 99.9992,
+        "percentile_max": 99.9999,
+        "rank_min": 4,
+        "rank_avg": 12,
+        "rank_max": 57
+    },
+    {
+        "marks": 293,
+        "percentile_min": 99.9965,
+        "percentile_avg": 99.9993,
+        "percentile_max": 99.9999,
+        "rank_min": 4,
+        "rank_avg": 11,
+        "rank_max": 50
+    },
+    {
+        "marks": 294,
+        "percentile_min": 99.997,
+        "percentile_avg": 99.9994,
+        "percentile_max": 99.9999,
+        "rank_min": 3,
+        "rank_avg": 9,
+        "rank_max": 44
+    },
+    {
+        "marks": 295,
+        "percentile_min": 99.9975,
+        "percentile_avg": 99.9995,
+        "percentile_max": 99.9999,
+        "rank_min": 3,
+        "rank_avg": 8,
+        "rank_max": 38
+    },
+    {
+        "marks": 296,
+        "percentile_min": 99.998,
+        "percentile_avg": 99.9996,
+        "percentile_max": 100.0,
+        "rank_min": 3,
+        "rank_avg": 7,
+        "rank_max": 31
+    },
+    {
+        "marks": 297,
+        "percentile_min": 99.9985,
+        "percentile_avg": 99.9997,
+        "percentile_max": 100.0,
+        "rank_min": 2,
+        "rank_avg": 5,
+        "rank_max": 24
+    },
+    {
+        "marks": 298,
+        "percentile_min": 99.999,
+        "percentile_avg": 99.9998,
+        "percentile_max": 100.0,
+        "rank_min": 2,
+        "rank_avg": 4,
+        "rank_max": 18
+    },
+    {
+        "marks": 299,
+        "percentile_min": 99.9995,
+        "percentile_avg": 99.9999,
+        "percentile_max": 100.0,
+        "rank_min": 1,
+        "rank_avg": 2,
+        "rank_max": 12
+    },
+    {
+        "marks": 300,
+        "percentile_min": 100.0,
+        "percentile_avg": 100.0,
+        "percentile_max": 100.0,
+        "rank_min": 1,
+        "rank_avg": 1,
+        "rank_max": 5
+    }
+]
