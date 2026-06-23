@@ -1,19 +1,3 @@
-"""
-main.py
--------
-ExamRank API – application entry point.
-
-Responsibilities:
-  - Instantiate the FastAPI application with metadata.
-  - Configure CORS middleware.
-  - Register all exam prediction routers.
-  - Expose the root health-check endpoint.
-  - Pre-warm the data cache on startup so the first real request
-    is not penalised by file I/O.
-
-Run locally:
-    uvicorn main:app --reload --port 8000
-"""
 
 from __future__ import annotations
 
@@ -28,9 +12,6 @@ from fastapi.responses import JSONResponse
 from routers import jee, jeeadv, mhtcet, neet
 from utils.loader import load_exam_data
 
-# ---------------------------------------------------------------------------
-# Logging
-# ---------------------------------------------------------------------------
 
 logging.basicConfig(
     level=logging.INFO,
@@ -39,9 +20,6 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# ---------------------------------------------------------------------------
-# Startup / shutdown lifecycle
-# ---------------------------------------------------------------------------
 
 _EXAM_KEYS = ("jee", "mhtcet", "neet", "jeeadv")
 
@@ -68,10 +46,6 @@ async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
     logger.info("ExamRank API shutting down.")
 
 
-# ---------------------------------------------------------------------------
-# Application
-# ---------------------------------------------------------------------------
-
 app = FastAPI(
     title="ExamRank API",
     description=(
@@ -91,20 +65,12 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
-# ---------------------------------------------------------------------------
-# CORS
-# ---------------------------------------------------------------------------
-
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:3000",   # Vite dev server
-        "http://127.0.0.1:3000",  # Alternate loopback form
-        "https://examrank-phi.vercel.app",
-    ],
+    allow_origins=["*"],
     allow_credentials=False,
-    allow_methods=["GET", "POST"],
-    allow_headers=["Content-Type", "Accept"],
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 # ---------------------------------------------------------------------------
