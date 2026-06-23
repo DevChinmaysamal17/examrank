@@ -6,7 +6,7 @@ A full-stack web application that helps Indian students estimate their percentil
 
 ## 🚀 Live Demo
 
-🌐 Live App: _coming soon_
+🌐 Live App: https://examrank-phi.vercel.app
 📘 API Docs: _coming soon_
 📁 GitHub Repository: https://github.com/DevChinmaysamal17/examrank
 
@@ -289,14 +289,14 @@ npm install --legacy-peer-deps
 npm run dev
 ```
 
-Frontend runs at: `http://localhost:5173`
+Frontend runs at: `http://localhost:3000`
 
 ---
 
 ### 4. Open in Browser
 
 ```
-http://localhost:5173
+http://localhost:3000
 ```
 
 > ⚠️ Both backend and frontend must be running simultaneously in separate terminals.
@@ -340,7 +340,7 @@ http://localhost:5173
 First-Year Engineering Student focused on Backend Development, Cloud & DevOps.
 
 - GitHub: https://github.com/DevChinmaysamal17
-- LinkedIn: https://www.linkedin.com/in/chinmay-samal-492a72387/
+- LinkedIn: https://www.linkedin.com/in/chinmaysamal
 
 ---
 
