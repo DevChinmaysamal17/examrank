@@ -31,11 +31,7 @@ _MAX_MARKS: float = 300.0
     },
 )
 def predict_jee(payload: PredictionRequest) -> PredictionResponse:
-    """
-    Predict JEE Main percentile and rank for the given marks.
-
-    - **marks**: Raw score between −75 and 300.
-    """
+   
     marks = payload.marks
 
     if marks < _MIN_MARKS:

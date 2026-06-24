@@ -26,11 +26,6 @@ _EXAM_KEYS = ("jee", "mhtcet", "neet", "jeeadv")
 
 @asynccontextmanager
 async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
-    """
-    Pre-load all JSON datasets into the in-memory cache during startup.
-    This converts file-I/O latency from the first request to startup time,
-    giving every prediction endpoint a consistently fast response.
-    """
     logger.info("ExamRank API starting up — pre-warming data cache …")
     for key in _EXAM_KEYS:
         try:
@@ -73,20 +68,12 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# ---------------------------------------------------------------------------
-# Routers
-# ---------------------------------------------------------------------------
-
 app.include_router(jee.router)
 app.include_router(mhtcet.router)
 app.include_router(neet.router)
 app.include_router(jeeadv.router)
 
-# ---------------------------------------------------------------------------
-# Root endpoint
-# ---------------------------------------------------------------------------
-
-@app.get(
+app.get(
     "/",
     summary="Health check",
     description="Returns the running status and service name. Use this to verify the API is reachable.",

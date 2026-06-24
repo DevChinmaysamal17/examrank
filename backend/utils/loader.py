@@ -1,18 +1,3 @@
-"""
-utils/loader.py
----------------
-Responsible for reading and caching the historical data JSON files
-that back the prediction engine.
-
-Design decisions:
-  - Data is loaded once at first access and held in a module-level
-    cache dictionary (simple, zero-dependency memoization).
-  - Files are resolved relative to this file's location so the
-    server can be launched from any working directory.
-  - Validation is performed at load time so startup fails fast if
-    a data file is malformed, rather than crashing at request time.
-"""
-
 from __future__ import annotations
 
 import json
@@ -22,9 +7,6 @@ from typing import TypedDict
 
 logger = logging.getLogger(__name__)
 
-# ---------------------------------------------------------------------------
-# Types
-# ---------------------------------------------------------------------------
 
 class DataPoint(TypedDict):
     """A single row in a historical data file."""
@@ -38,11 +20,6 @@ class DataPoint(TypedDict):
     rank_max: int | None
 
 
-# ---------------------------------------------------------------------------
-# Internals
-# ---------------------------------------------------------------------------
-
-# Resolved path to the /data directory (sibling of /utils)
 _DATA_DIR: Path = Path(__file__).resolve().parent.parent / "data"
 
 # In-memory cache: exam_key → sorted list of DataPoints
@@ -50,10 +27,6 @@ _CACHE: dict[str, list[DataPoint]] = {}
 
 
 def _validate_row(row: object, index: int, filename: str) -> DataPoint:
-    """
-    Assert that a JSON row has the required numeric fields.
-    Raises ValueError with a descriptive message on failure.
-    """
     if not isinstance(row, dict):
         raise ValueError(
             f"{filename}[{index}]: expected an object, got {type(row).__name__}."
@@ -100,26 +73,8 @@ def _validate_row(row: object, index: int, filename: str) -> DataPoint:
         rank_max=_opt_int("rank_max"),
     )
 
-
-# ---------------------------------------------------------------------------
-# Public API
-# ---------------------------------------------------------------------------
-
 def load_exam_data(exam_key: str) -> list[DataPoint]:
-    """
-    Return the historical dataset for *exam_key*, loading from disk
-    on the first call and returning the cached copy on subsequent calls.
-
-    The returned list is always sorted ascending by marks.
-
-    Args:
-        exam_key: One of "jee", "mhtcet", "neet", "jeeadv".
-
-    Raises:
-        FileNotFoundError: If the corresponding JSON file does not exist.
-        ValueError: If the JSON file is malformed or contains invalid rows.
-        json.JSONDecodeError: If the file is not valid JSON.
-    """
+    
     if exam_key in _CACHE:
         return _CACHE[exam_key]
 
@@ -167,9 +122,6 @@ def load_exam_data(exam_key: str) -> list[DataPoint]:
 
 
 def clear_cache() -> None:
-    """
-    Evict all cached datasets.
-    Useful in tests or when data files are hot-reloaded.
-    """
+    
     _CACHE.clear()
     logger.info("Data cache cleared.")

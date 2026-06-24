@@ -31,11 +31,7 @@ _MAX_MARKS: float = 200.0
     },
 )
 def predict_mhtcet(payload: PredictionRequest) -> PredictionResponse:
-    """
-    Predict MHT-CET percentile and rank for the given marks.
-
-    - **marks**: Raw score between 0 and 200.
-    """
+    
     marks = payload.marks
 
     if marks < _MIN_MARKS:

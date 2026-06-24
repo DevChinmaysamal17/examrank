@@ -30,11 +30,7 @@ _MAX_MARKS: float = 720.0
     },
 )
 def predict_neet(payload: PredictionRequest) -> PredictionResponse:
-    """
-    Predict NEET UG all-India rank for the given marks.
-
-    - **marks**: Raw score between −180 and 720.
-    """
+   
     marks = payload.marks
 
     if marks < _MIN_MARKS:

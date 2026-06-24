@@ -30,12 +30,7 @@ class PredictionResult:
     message: str
 
 def _lerp(x0: float, y0: float, x1: float, y1: float, x: float) -> float:
-    """
-    Linear interpolation / extrapolation.
-
-    Returns y such that (x, y) lies on the line through (x0, y0) and (x1, y1).
-    Safe when x0 == x1 (returns y0 in that degenerate case).
-    """
+    
     if math.isclose(x0, x1):
         return y0
     return y0 + (y1 - y0) * (x - x0) / (x1 - x0)
@@ -44,22 +39,14 @@ def _lerp(x0: float, y0: float, x1: float, y1: float, x: float) -> float:
 def _find_brackets(
     data: list[DataPoint], marks: float
 ) -> tuple[DataPoint, DataPoint, bool, bool]:
-    """
-    Locate the two data points that bracket *marks*.
-
-    Returns:
-        (lower, upper, is_exact, is_outside)
-
-        is_exact   – marks is within EXACT_TOLERANCE of lower or upper.
-        is_outside – marks is outside [data[0].marks, data[-1].marks].
-    """
+    
     # Extract sorted marks list for bisect
     marks_list = [dp["marks"] for dp in data]
 
     # bisect_left gives insertion index for marks
     idx = bisect.bisect_left(marks_list, marks)
 
-    # --- Exact hit (or within tolerance) ---
+    # Exact hit (or within tolerance) 
     if 0 <= idx < len(data) and math.isclose(data[idx]["marks"], marks, abs_tol=EXACT_TOLERANCE):
         # Pick the immediately adjacent point for the "upper" bracket
         upper_idx = min(idx + 1, len(data) - 1)
@@ -99,7 +86,6 @@ def _assign_confidence(
 
 
 def _build_message(confidence: str, is_outside: bool, is_exact: bool) -> str:
-    """Generate a human-readable explanation for the result."""
     if is_exact:
         return "Estimated using an exact match in historical trend data."
     if is_outside:
@@ -116,11 +102,6 @@ def _build_message(confidence: str, is_outside: bool, is_exact: bool) -> str:
         "Marks are interpolated between two historical data points. "
         "Estimated using historical trends."
     )
-
-
-# ---------------------------------------------------------------------------
-# Public API
-# ---------------------------------------------------------------------------
 
 def predict(exam_key: str, marks: float) -> PredictionResult:
     """
